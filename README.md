@@ -1,6 +1,6 @@
 # About Me
 
-<img src="1664867172379.jpg" class="floatpic" width="360" height="480">
+<img src="1664867172379.jpg" class="floatpic" width="480" height="480">
 
 Hi 👋 My name is **Hanlin Cai (蔡汉霖)**. Here is [my latest CV](https://caihanlin.com/file/CV-HanlinCAI.pdf).
 
