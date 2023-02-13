@@ -8,7 +8,7 @@ title: Publications
 
 ## English Paper
 
-- [Letter to Editor: Academic journals should clarify the proportion of NLP-generated content in papers](https://www.tandfonline.com/doi/full/10.1080/08989621.2022.2117621).<br>**Gengyan Tang**.<br>*Accountability in Research: Ethics, Integrity and Policy*.<br> 13 Feb, 2023.
+- Letter to Editor: Academic journals should clarify the proportion of NLP-generated content in papers(Publishing).<br>**Gengyan Tang**.<br>*Accountability in Research: Ethics, Integrity and Policy*.<br> 13 Feb, 2023.
 
 - [Status bias in Chinese scholarly publishing: an exploratory study based on mixed methods](https://www.tandfonline.com/doi/full/10.1080/08989621.2022.2117621).<br>**Gengyan Tang**, Hao Cai, Jingwen Jia.<br>*Accountability in Research: Ethics, Integrity and Policy*.<br> 01 Sep, 2022.
 
