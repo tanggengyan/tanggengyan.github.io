@@ -7,7 +7,7 @@ url: https://www.tanggengyan.com
 # Owner/author information
 owner:
   name:           Gengyan Tang
-  avatar:         Gengyan.jpg
+  avatar:         <img src="/image/Gengyan.jpg">
 #  bio:
   email:          tanggengyan@outlook.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
