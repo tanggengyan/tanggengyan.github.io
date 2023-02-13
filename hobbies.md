@@ -13,7 +13,7 @@ title: Hobbies
 <img src="/image/Photo No.2.jpg">
 <img src="/image/Photo No.3.jpg">
 </div>
-I love photography and recording life. I want to record every beautiful moment and share it to bring happiness to all people.
+I love photography and recording life. I want to record every wonderful moment and share it to bring happiness to all people.
 
 
 ## My Cat
