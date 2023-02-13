@@ -10,9 +10,9 @@ title: Hobbies
 ## Photography
 
 <div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
+<img src="blogs/20061676272696_.pic_hd.jpg">
+<img src="blogs/20071676272727_.pic.jpg">
+<img src="blogs/20081676272768_.pic_hd.jpg">
 </div>
 
 I love photography and recording life. I want to record every beautiful moment and share it to bring happiness to all people.
@@ -22,7 +22,7 @@ I love photography and recording life. I want to record every beautiful moment a
 This is my cat. His name is Mimi Pig.
 
 <div>
-<img src="/images/cat.JPG">
+<img src="blogs/20091676272936_.pic.jpg">
 </div>
 <br>
 
