@@ -9,7 +9,7 @@ title: Hobbies
 ## Photography
 
 <div class="third">
-<img src="/images/prelection1.JPG">
+<img src="/image/Photo No.1.jpg">
 <img src="/images/speech1.JPG">
 <img src="/images/speech3.JPG">
 </div>
