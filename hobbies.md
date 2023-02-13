@@ -10,9 +10,9 @@ title: Hobbies
 ## Photography
 
 <div class="third">
-<img src="blogs/20061676272696_.pic_hd.jpg">
-<img src="blogs/20071676272727_.pic.jpg">
-<img src="blogs/20081676272768_.pic_hd.jpg">
+<img src="blogs/20061676272696_.pic_hd.jpg"class="floatpic" width="480" height="320">
+<img src="blogs/20071676272727_.pic.jpg"class="floatpic" width="480" height="320">
+<img src="blogs/20081676272768_.pic_hd.jpg"class="floatpic" width="480" height="320">
 </div>
 
 I love photography and recording life. I want to record every beautiful moment and share it to bring happiness to all people.
