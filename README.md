@@ -2,13 +2,17 @@
 
 <img src="1664867172379.jpg" class="floatpic" width="480" height="480">
 
-Hi 👋 My name is **Hanlin Cai (蔡汉霖)**. Here is [my latest CV](https://caihanlin.com/file/CV-HanlinCAI.pdf).
+Hi 👋 My name is **Gengyan Tang(唐耕砚)**. Here is [my latest CV](https://caihanlin.com/file/CV-HanlinCAI.pdf).
 
-I am a junior majoring in Automation at [Fuzhou University](https://www.fzu.edu.cn/) (China) and Robotics and Intelligent Devices at [Maynooth University](https://maynoothuniversity.ie/) (Ireland, Combined Degrees).
+I am a master student in Journalism at [Sichuan Academy of Social Sciences](https://www.ssas.cn/) (China).
+
+## Research Interests
+
+My research focuses on ethical issues in scholarly publishing, and I’m particularly interested in the topics of inclusion, equity, transparency, diversity in scholarly publishing. In my master’s dissertation and published papers, I explored the issues of pervading individualism in the academic community and how academic tournaments result in the predatory journals.
 
 ## Social Media
 
-[My Chinese Website](https://mieclance.club/) averages over 1000+ unique visits monthly, [My Zhihu](https://www.zhihu.com/people/chlire) account has more than 1200+ followers and 13000+ likes. In addition, [My Bilibili](https://space.bilibili.com/594030035) (Chinese YouTube) account possesses around 2000 fans. Ultimately, if you are interested in my experience, here is [My Europass resume (CV)](https://caihanlin.com/file/Europass-CV-Hanlin-CAI.pdf).
+In 2021, I founded the WeChat Offical Account Journal Observer(期刊观察). From time to time, I have been sharing profound research findings on scholarly publishing, sociology of science and scientometrics on the Journal Observer. As of 1 Feb 2023, the Journal Observer had 2,700 subscribers, with an average of 400 reads per article.
 
 ## Statement
 
