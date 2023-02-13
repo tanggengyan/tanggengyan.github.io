@@ -16,4 +16,4 @@ In 2021, I founded the WeChat Offical Account Journal Observer(期刊观察). Fr
 
 ## Statement
 
-© 2023 Gengyan Tang. Ppowered by [Hanlin Cai](https://caihanlin.com/) and [Jekyll](https://jekyllrb.com/), based on the [Minimal Mistakes](https://mademistakes.com/) theme. Source code for this website can be found [here](https://github.com/GuangLun2000/GuangLun2000.github.io).
+© 2023 Gengyan Tang. Powered by [Hanlin Cai](https://caihanlin.com/) and [Jekyll](https://jekyllrb.com/), based on the [Minimal Mistakes](https://mademistakes.com/) theme. Source code for this website can be found [here](https://github.com/GuangLun2000/GuangLun2000.github.io).
