@@ -4,26 +4,16 @@ layout: page
 
 # About Me
 
-<img src="https://www.caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="1664867172379.jpg" class="floatpic" width="480" height="480">
 
+Hi 👋 My name is **Gengyan Tang(唐耕砚)**. Here is [my latest CV](CV-Gengyan.pdf).
 
-
-Hi 👋 My name is **Hanlin Cai (Lance, 蔡汉霖)**.
-
-I am a junior majoring in **Automation** at [Fuzhou University](https://www.fzu.edu.cn/ ) (China) and **Robotics and Intelligent Devices** at [Maynooth University](https://maynoothuniversity.ie/) (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong) and [Zhezhuang Xu](https://dqxy.fzu.edu.cn/en/info/1009/1072.htm). Here is [my latest CV](https://caihanlin.com/file/CV-HanlinCAI.pdf).
+I am a master student in Journalism at [Sichuan Academy of Social Sciences](https://www.ssas.cn/) (China).
 
 ## Research Interests
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT and Healthcare IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My research focuses on ethical issues in scholarly publishing, and I’m particularly interested in the topics of inclusion, equity, transparency, diversity in scholarly publishing. In my master’s dissertation and published papers, I explored the issues of pervading individualism in the academic community and how academic tournaments result in the predatory journals.
 
-## News and Updates
+## Social Media
 
-- ***Feb 2023:*** **[FZU-Flying-Book 福州大学飞跃手册](https://fzu-fly.online/)** has been published! Welcome to star, fork and pull!
-- ***Jan 2023:*** One paper accepted to ICAROB 2023, see you in Japan!
-- ***Dec 2022:*** Research assistant at Key Laboratory of Industrial Automation Control Technology and Information Processing, Fuzhou, advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/en/info/1009/1072.htm).
-- ***Oct 2022:*** One paper accepted to IEEE CENIM, see you in Indonesia!
-- ***Sep 2022:*** Happy to be nominated for the 2021-2022 China National Scholarship (top 1%).
-- ***Jun 2022:*** Research Intern at University of Cambridge, online, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
-
-
-
+In 2021, I founded the WeChat Offical Account Journal Observer(期刊观察). From time to time, I have been sharing profound research findings on scholarly publishing, sociology of science and scientometrics on the Journal Observer. As of 1 Feb 2023, the Journal Observer had 2,700 subscribers, with an average of 400 reads per article.
