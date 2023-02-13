@@ -12,7 +12,7 @@ title: Publications
 
 - [Status bias in Chinese scholarly publishing: an exploratory study based on mixed methods](https://www.tandfonline.com/doi/full/10.1080/08989621.2022.2117621).<br>**Gengyan Tang**, Hao Cai, Jingwen Jia.<br>*Accountability in Research: Ethics, Integrity and Policy*.<br> 01 Sep, 2022.
 
-- [Characteristics of blacklisted journals: Evidence from Chinese-language academic journals](https://www.tandfonline.com/doi/full/10.1080/08989621.2022.2112953).<br>**Gengyan Tang**, Jingwen Jia.<br>*Accountability in Research: Ethics, Integrity and Policy.<br> 18 Aug, 2022.
+- [Characteristics of blacklisted journals: Evidence from Chinese-language academic journals](https://www.tandfonline.com/doi/full/10.1080/08989621.2022.2112953).<br>**Gengyan Tang**, Jingwen Jia.<br>*Accountability in Research: Ethics, Integrity and Policy*.<br> 18 Aug, 2022.
 
 - [Why do master’s students of humanities and social sciences publish papers in Chinese-language predatory journals? A qualitative study based on Grounded Theory](https://www.tandfonline.com/doi/full/10.1080/08989621.2021.1960164).<br>**Gengyan Tang**, Jingwen Jia.<br>*Accountability in Research: Ethics, Integrity and Policy*.<br> 05 Aug, 2021.
 
