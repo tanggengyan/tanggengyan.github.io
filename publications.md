@@ -29,3 +29,7 @@ title: Publications
 - [Concept, implementation, and content of the transparency principle of reviewing manuscripts for Chinese academic journals (中文学术期刊“审稿透明原则”的概念、实施状况及内容)](https://www.cjstp.cn/CN/10.11946/cjstp.202012311066).<br>**Gengyan Tang**, Jingwen Jia.<br>Chinese Journal of Scientific and Technical Periodicals(中国科技期刊研究 CSSCI).<br> Jun, 2021.
 
 - [Research on high-views articles of medical journals on WeChat official accounts based on Framework Theory (基于框架理论对医学期刊微信公众号高阅读量文章的研究——以《柳叶刀》为例)](https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.19619/j.issn.1007-1938.2021.00.032).<br>**Gengyan Tang**.<br>Publishing & Printing(出版与印刷).<br> Jun, 2021.
+
+- [The experience and enlightenment of "The New England Journal of Medicine" in responding to public health emergencies (《新英格兰医学杂志》应对突发公共卫生事件的经验及启示)](https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.13723/j.yxysh.2021.05.015).<br>**Gengyan Tang**.<br>Medicine and Society(医学与社会).<br> May, 2021.
+
+- [Public opinion governance dilemma faced by preprint platforms and corresponding countermeasures (预印本平台的舆论治理困境与应对策略：基于“新型冠状病毒肺炎”事件的反思)](https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.16192/j.cnki.1003-2053.20201204.005).<br>**Gengyan Tang**.<br>Studies in Science of Science(科学学研究).<br> Apr, 2021.
