@@ -6,41 +6,24 @@ title: Projects
 
 # Research Projects
 
-## [RIGMS Testbed]
+## A Study of the New Goals and Requirements for Cultural Development(2019-2020)
 
-*Real-time Intelligent Garbage Monitering System ([RIGMS Testbed]) for IoT Cybersecurity Using Machine Learning Based Approach*
+The National Social Science Fund of China, research assistant
+1.	Write the fifth part of the project report, about 20,000 words
+2. Helped panelists gather information on the policy history of China’s cultural industry development 
 
-1. Responsible for the establishment and improvement of the Real-time Intelligent Garbage Monitoring System (RIGMS) Testbed for IoT cybersecurity research;
-2. Master basic machine learning algorithms, further explore the design of IoT cybersecurity algorithms, and apply machine learning approaches to prevent IoT multiple-mix-attacks;
-3. Until to now, have obtained a series of experimental data, and carried out corresponding data preprocessing, preliminary result analysis, and algorithm evaluation;
-4. Still under working that will be finalized in Feb 2023, and the latest manuscript can be found [here](https://caihanlin.com/mypaper/202210camb.pdf) (30th Dec 2022).
+## Communication and Cognition of the Belt and Road Initiative in the U.S(2020-2021)
 
-[RIGMS Testbed]:https://caihanlin.com/mypaper/202210camb.pdf
+The National Social Science Fund of China, research assistant
+1. Write two project reports: 
+2. Sentiment orientation and expressive strategies of U.S. media in major events in China: The example of CNN’s coverage of China’s 70th National Day
+3. The construction of international communication evaluation index system and China's path: Based on the Fourth Generation Evaluation Theory
 
-
-
-## [Deep ResNet for TSDS]
-
-*Deep Residual Neural Network (RNN) for Efficient Traffic Sign Detection System (TSDS)*
-
-1. This paper has proposed a deep residual neural network (RNN) model for traffic signs detection system (TSDS) research. Experiments are conducted to verify the feasibility of implement RNN model for traffic sign detection and recognition;
-1. Moreover, a new systematic analytic hierarchy process (AHP) method for model performance evaluation have been suggested, which is sufficient for deployment in the practical performance measurement of deep learning model;
-1. **News!** This paper have been accepted to ICAROB 2023. The manuscript [can be found here](https://caihanlin.com/mypaper/202302ICAROB.pdf).
-
-[Deep ResNet for TSDS]: https://caihanlin.com/mypaper/202302ICAROB.pdf
+## Interdisciplinary Research on the Cultural Industry of the Belt and Road Initiative(2018-2020)
 
 
-
-## [Garbage Manager]
-
-*Intelligent Garbage Management System for Urban Communities: [Garbage Manager].*
-
-1. Took charge of the software and hardware interface part of the IoT Monitoring System, thousands of lines of high-quality and efficient code writing, and the technical documentation preparation of this system;
-1. Grasped the comprehensive knowledge of IoT systems and learned how to connect software with hardware and how to use cloud computing to process IoT-generated data, etc.;
-1. Penned a paper named An IoT Garbage Monitoring System for Effective Garbage Management and will report on this project as a presenter at IEEE CENIM in Nov 2022.
-1. [PDF](https://caihanlin.com/mypaper/202208cenim.pdf), [Slides](https://caihanlin.com/mypaper/slides/2022-CENIM-Pre-v2.pdf), [Talk](https://youtu.be/-XIMa5-SaTk/) (Latest update in Jan 2023)
-
-[Garbage Manager]: https://caihanlin.com/mypaper/202208cenim.pdf
+Sichuan University Interdisciplinary Fund, research assistant
+Publish a paper: The impact of government subsidies on the operating performance of listed cultural & media companies
 
  
 
