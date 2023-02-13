@@ -38,4 +38,8 @@ title: Publications
 
 - [Research on the impact of journalism and communication periodical contents on academic influence (新闻传播学期刊载文量对学术影响力的影响研究)](https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.19480/j.cnki.cmgc.2021.02.013).<br>**Gengyan Tang**, Ji Lu, Hui Li.<br>Media Observer(传媒观察 CSSCI).<br> Feb, 2021.
 
-- [Characteristic elements of Chinese predatory journals based on Grounded Theory (基于扎根理论的中文掠夺性期刊特征要素研究)](https://www.cjstp.cn/CN/10.11946/cjstp.202005160497).<br>**Gengyan Tang**, Xingxia Long, Hao Cai, Qiujiang Li.<br>Chinese Journal of Scientific and Technical Periodicals(中国科技期刊研究 CSSCI).<br> Dec, 2022.
+- [Characteristic elements of Chinese predatory journals based on Grounded Theory (基于扎根理论的中文掠夺性期刊特征要素研究)](https://www.cjstp.cn/CN/10.11946/cjstp.202005160497).<br>**Gengyan Tang**, Xingxia Long, Hao Cai, Qiujiang Li.<br>Chinese Journal of Scientific and Technical Periodicals(中国科技期刊研究 CSSCI).<br> Dec, 2020.
+
+- [Appearance and bridging: The distance effect in China's book copyright trade (显现与弥合:中国图书版权贸易中的"距离效应")](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXomq8u2-At07eo1X5C8gg0mCP8xpoCcx_7z5PauEGohsM&uniplatform=NZKPT).<br>Nanlin Che, **Gengyan Tang**.<br>Modern Publishing(现代出版 CSSCI).<br> Jun, 2020.
+
+- [Strategies on shortening publication delays of scientific and technological periodicals (科技期刊缩短出版时滞策略研究：以“新型冠状病毒肺炎”事件中的医学期刊为例)](https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.13363/j.publishingjournal.2020.03.011).<br>**Gengyan Tang**.<br>Publishing Journal(出版科学 CSSCI).<br> May, 2020.
