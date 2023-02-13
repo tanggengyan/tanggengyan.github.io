@@ -43,3 +43,7 @@ title: Publications
 - [Appearance and bridging: The distance effect in China's book copyright trade (显现与弥合:中国图书版权贸易中的"距离效应")](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXomq8u2-At07eo1X5C8gg0mCP8xpoCcx_7z5PauEGohsM&uniplatform=NZKPT).<br>Nanlin Che, **Gengyan Tang**.<br>Modern Publishing(现代出版 CSSCI).<br> Jun, 2020.
 
 - [Strategies on shortening publication delays of scientific and technological periodicals (科技期刊缩短出版时滞策略研究：以“新型冠状病毒肺炎”事件中的医学期刊为例)](https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.13363/j.publishingjournal.2020.03.011).<br>**Gengyan Tang**.<br>Publishing Journal(出版科学 CSSCI).<br> May, 2020.
+
+- [An analysis of the trade characteristics and competitiveness of media products between China and the five Lancang-mekong countries (中国与澜湄五国传媒产品贸易特征和竞争性分析)](https://www.cnki.net/kcms/doi/10.19393/j.cnki.cn11-1537/g2.2019.01.023.html).<br>Nanlin Che, **Gengyan Tang**, Shangwei Cai.<br>Publishing Research(出版发行研究 CSSCI).<br> Jan, 2019.
+
+- [The influence of government subsidies on the operating performance of listed cultural media enterprises (政府补贴对文化传媒上市企业经营绩效的影响)](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i0-kJR0HYBJ80QN9L51zrP36WzycZei661FYHl4s3IKPmyF0pScvMXxwo8bxkmXko&uniplatform=NZKPT).<br>Nanlin Che, **Gengyan Tang**.<br>Contemporary Communication(当代传播 CSSCI).<br> May, 2018.
