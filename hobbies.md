@@ -10,7 +10,7 @@ title: Hobbies
 ## Photography
 
 <div class="third">
-<img src="blogs/“20061676272696_.pic_hd”大.jpg"class="floatpic" width="320" height="240">
+<img src="Photo No.1.jpg"class="floatpic" width="320" height="240">
 <img src="blogs/“20071676272727_”大.jpg"class="floatpic" width="320" height="240">
 <img src="blogs/20111676273948_.pic.jpg"class="floatpic" width="320" height="240">
 </div>
