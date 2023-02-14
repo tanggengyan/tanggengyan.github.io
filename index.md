@@ -7,7 +7,8 @@ layout: page
 <img src="1664867172379.jpg" class="floatpic" width="480" height="480">
 
 Hi 👋 My name is **Gengyan Tang(唐耕砚)**. Here is [my latest CV](CV-Gengyan.pdf). 
- I am a master student in Journalism at Sichuan Academy of Social Sciences(China).
+
+I am a master student in Journalism at Sichuan Academy of Social Sciences(China).
 
 ## Research Interests
 
