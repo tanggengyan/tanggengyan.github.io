@@ -17,6 +17,7 @@ title: Projects
 
 *The National Social Science Fund of China, research assistant*
 
+
 Write two project reports: 
 
 1. Sentiment orientation and expressive strategies of U.S. media in major events in China: The example of CNN’s coverage of China’s 70th National Day
