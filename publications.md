@@ -8,9 +8,7 @@ title: Publications
 
 ## English Papers
 
-- [Academic journals cannot simply require authors to declare that they used ChatGPT](https://link.springer.com/article/10.1007/s11845-023-03374-x)<br>**Gengyan Tang**<br>*Irish Journal of Medical Science (1971 -)*<br> Apr, 2023
-
-- [Letter to Editor: Academic journals should clarify the proportion of NLP-generated content in papers](https://www.tandfonline.com/doi/full/10.1080/08989621.2023.2180359)<br>**Gengyan Tang**<br>*Accountability in Research*<br> Feb, 2023
+### Research Article
 
 - [Status bias in Chinese scholarly publishing: an exploratory study based on mixed methods](https://www.tandfonline.com/doi/full/10.1080/08989621.2022.2117621)<br>**Gengyan Tang**, Hao Cai, Jingwen Jia<br>*Accountability in Research*<br> Sep, 2022
 
@@ -19,6 +17,12 @@ title: Publications
 - [Why do master’s students of humanities and social sciences publish papers in Chinese-language predatory journals? A qualitative study based on Grounded Theory](https://www.tandfonline.com/doi/full/10.1080/08989621.2021.1960164)<br>**Gengyan Tang**, Jingwen Jia<br>*Accountability in Research*<br> Aug, 2021
 
 - [Analysis on the position of copyright trade in the Sino–US trade friction](https://link.springer.com/article/10.1007/s12109-020-09719-z)<br>**Gengyan Tang**<br>*Publishing Research Quarterly*<br> Jun, 2021
+
+### Letter&Correspondence
+
+- [Academic journals cannot simply require authors to declare that they used ChatGPT](https://link.springer.com/article/10.1007/s11845-023-03374-x)<br>**Gengyan Tang**<br>*Irish Journal of Medical Science (1971 -)*<br> Apr, 2023
+
+- [Letter to Editor: Academic journals should clarify the proportion of NLP-generated content in papers](https://www.tandfonline.com/doi/full/10.1080/08989621.2023.2180359)<br>**Gengyan Tang**<br>*Accountability in Research*<br> Feb, 2023
 
 ## Chinese Papers
 
