@@ -18,7 +18,7 @@ title: Publications
 
 - [Analysis on the position of copyright trade in the Sino–US trade friction](https://link.springer.com/article/10.1007/s12109-020-09719-z)<br>**Gengyan Tang**<br>*Publishing Research Quarterly*<br> Jun, 2021
 
-### Letter&Correspondence
+### Letter & Correspondence
 
 - [Academic journals cannot simply require authors to declare that they used ChatGPT](https://link.springer.com/article/10.1007/s11845-023-03374-x)<br>**Gengyan Tang**<br>*Irish Journal of Medical Science (1971 -)*<br> Apr, 2023
 
