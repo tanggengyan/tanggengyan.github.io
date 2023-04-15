@@ -16,4 +16,4 @@ My research focuses on ethical issues in scholarly publishing, and I’m particu
 
 ## Social Media
 
-In 2021, I founded the WeChat Offical Account *Journal Observer*(期刊观察). From time to time, I have been sharing profound research findings on scholarly publishing, sociology of science and scientometrics on the *Journal Observer*. As of 1 Feb 2023, the *Journal Observer* had 2,700 subscribers, with an average of 400 reads per article.
+In 2021, I founded the WeChat Offical Account *Journal Observer*(期刊观察). From time to time, I have been sharing profound research findings on scholarly publishing, sociology of science and scientometrics in the *Journal Observer*. As of 15 Apr 2023, the *Journal Observer* had 3,342 subscribers, with an average of 800 reads per article.
