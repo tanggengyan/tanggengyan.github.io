@@ -7,6 +7,7 @@ title: Blogs
 # Blogs
 
 I have also founded a bimonthly abstract journal, *The Digest Journal of Scholarly Publishing*, which publishes outstanding papers on academic publishing, sociology of science and scientometrics.
+- [***2023 Vol.3 No.2***](https://mp.weixin.qq.com/s?__biz=MzA5NTk5MjIwOA==&mid=2651761542&idx=1&sn=b41a087090b6becd42720eadff823ec9&chksm=8b4ceb79bc3b626fc52845e5bb7945e7010bca5d398f173cb915da790caa26176012f5316bcb&token=510609994&lang=zh_CN#rd)
 - [***2023 Vol.3 No.1***](https://mp.weixin.qq.com/s?__biz=MzA5NTk5MjIwOA==&mid=2651761404&idx=1&sn=98fbbfc2daea6bfd1ef33a4181ee8f39&chksm=8b4cea03bc3b63150b69757d0e6e337b6d05cd7eddad4b05303f32532b4fd0bf7cdbf8fffa39&token=1489579605&lang=zh_CN#rd)
 - [***2023 Special Issue***](https://mp.weixin.qq.com/s?__biz=MzA5NTk5MjIwOA==&mid=2651761391&idx=1&sn=2909f9d4c496f3766dc01a4fa3a0ae68&chksm=8b4cea10bc3b630665a8509591486c01fcee2d48f568f0aaeebbb9abb4a802a7dd4fe84a53a3&token=986000057&lang=zh_CN#rd) [*Academic Publishing's Response to ChatGPT*]
 - [***2022 Vol.2 No.6***](https://mp.weixin.qq.com/s?__biz=MzA5NTk5MjIwOA==&mid=2651761266&idx=1&sn=d08341ac0d482e8244c74e1ce1cd58b4&chksm=8b4cea8dbc3b639b685cc17073726b9f71a4e583c851e20cc5a0319ccfea1f30ac33682cc25f&token=986000057&lang=zh_CN#rd)
