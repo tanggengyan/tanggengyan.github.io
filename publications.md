@@ -20,6 +20,8 @@ title: Publications
 
 ### Letter & Correspondence
 
+- [Academic journals should rethink the concept of originality before permitting the use of ChatGPT][Publishing]<br>**Gengyan Tang**<br>*European Science Editing*<br> Apr, 2023
+
 - [Academic journals cannot simply require authors to declare that they used ChatGPT](https://link.springer.com/article/10.1007/s11845-023-03374-x)<br>**Gengyan Tang**<br>*Irish Journal of Medical Science (1971 -)*<br> Apr, 2023
 
 - [Letter to Editor: Academic journals should clarify the proportion of NLP-generated content in papers](https://www.tandfonline.com/doi/full/10.1080/08989621.2023.2180359)<br>**Gengyan Tang**<br>*Accountability in Research*<br> Feb, 2023
