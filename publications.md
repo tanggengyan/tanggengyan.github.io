@@ -10,7 +10,11 @@ title: Publications
 
 ### Research Article
 
-- [Status bias in Chinese scholarly publishing: an exploratory study based on mixed methods](https://www.tandfonline.com/doi/full/10.1080/08989621.2022.2117621)<br>**Gengyan Tang**, Hao Cai, Jingwen Jia<br>*Accountability in Research*<br> Sep, 2022
+- [A rapid investigation of artificial intelligence generated content footprints in scholarly publications]<br>**Gengyan Tang**,Sarah Elaine Eatonb<br>*Accountability in Research*<br> Under Review
+
+- [Are the lists of questionable journals reasonable: A case study of Early Warning Journal List]<br>**Gengyan Tang**, Jingyu Peng<br>*Accountability in Research*<br> Revise
+
+- [Status bias in Chinese scholarly publishing: An exploratory study based on mixed methods](https://www.tandfonline.com/doi/full/10.1080/08989621.2022.2117621)<br>**Gengyan Tang**, Hao Cai, Jingwen Jia<br>*Accountability in Research*<br> Sep, 2022
 
 - [Characteristics of blacklisted journals: Evidence from Chinese-language academic journals](https://www.tandfonline.com/doi/full/10.1080/08989621.2022.2112953)<br>**Gengyan Tang**, Jingwen Jia<br>*Accountability in Research*<br> Aug, 2022
 
