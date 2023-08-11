@@ -10,7 +10,7 @@ title: Publications
 
 ### Research Article
 
-- A rapid investigation of artificial intelligence generated content footprints in scholarly publications<br>**Gengyan Tang**, Sarah Elaine Eatonb<br>*Accountability in Research*<br> Under Review
+- A rapid investigation of artificial intelligence generated content footprints in scholarly publications<br>**Gengyan Tang**, Sarah Elaine Eaton<br>*Accountability in Research*<br> Under Review
 
 - Are the lists of questionable journals reasonable: A case study of Early Warning Journal List<br>**Gengyan Tang**, Jingyu Peng<br>*Accountability in Research*<br> Revise
 
