@@ -8,11 +8,11 @@ layout: page
 
 Hi 👋 My name is **Gengyan Tang(唐耕砚)**. Here is [my latest CV](CV-Gengyan.pdf). 
 
-I am a master student in Journalism at Sichuan Academy of Social Sciences(China).
+I am a dedicated researcher in the fields of research integrity, academic integrity, and scholarly publishing. 
 
 ## Research Interests
 
-My research focuses on ethical issues in scholarly publishing, and I’m particularly interested in the topics of inclusion, equity, transparency, diversity in scholarly publishing. In my master’s dissertation and published papers, I explored the issues of pervading individualism in the academic community and how academic tournaments result in the predatory journals.
+My research interests include exploring the impact of artificial intelligence tools on research integrity, the role of news media in integrity education, and how complex adaptive educational leadership addresses systemic challenges in academic integrity. My papers are primarily published in the Accountability in Research.
 
 ## Social Media
 
