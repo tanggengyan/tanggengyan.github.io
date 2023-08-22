@@ -12,7 +12,7 @@ title: Publications
 
 - A rapid investigation of artificial intelligence generated content footprints in scholarly publications<br>**Gengyan Tang**, Sarah Elaine Eaton<br>*Accountability in Research*<br> Under Review
 
-- Are the lists of questionable journals reasonable: A case study of Early Warning Journal List<br>**Gengyan Tang**, Jingyu Peng<br>*Accountability in Research*<br> Revise
+- Are the lists of questionable journals reasonable: A case study of Early Warning Journal Lists<br>**Gengyan Tang**, Jingyu Peng<br>*Accountability in Research*<br> Revise
 
 - [Status bias in Chinese scholarly publishing: An exploratory study based on mixed methods](https://www.tandfonline.com/doi/full/10.1080/08989621.2022.2117621)<br>**Gengyan Tang**, Hao Cai, Jingwen Jia<br>*Accountability in Research*<br> Sep, 2022
 
@@ -29,6 +29,10 @@ title: Publications
 - [Academic journals cannot simply require authors to declare that they used ChatGPT](https://link.springer.com/article/10.1007/s11845-023-03374-x)<br>**Gengyan Tang**<br>*Irish Journal of Medical Science (1971 -)*<br> Apr, 2023
 
 - [Letter to Editor: Academic journals should clarify the proportion of NLP-generated content in papers](https://www.tandfonline.com/doi/full/10.1080/08989621.2023.2180359)<br>**Gengyan Tang**<br>*Accountability in Research*<br> Feb, 2023
+
+### Data Set
+- [The Metadata of "A Rapid Investigation of Artificial Intelligence Generated Content Footprints in Scholarly Publications"](https://zenodo.org/record/8227899)<br>**Gengyan Tang**, Sarah Elaine Eaton<br>*Zenodo*<br> Aug, 2023
+- [The Metadata of "Are the Lists of Questionable Journals Reasonable: A Case Study of Early Warning Journal List"](https://zenodo.org/record/8245329)<br>**Gengyan Tang**, Jingyu Peng<br>*Zenodo*<br> Aug, 2023
 
 ## Chinese Papers
 
