@@ -6,7 +6,7 @@ title: Publications
 
 # Publications
 
-## English Papers
+## English Publications
 
 ### Research Article
 
@@ -34,7 +34,7 @@ title: Publications
 - [The Metadata of "A Rapid Investigation of Artificial Intelligence Generated Content Footprints in Scholarly Publications"](https://zenodo.org/record/8227899)<br>**Gengyan Tang**, Sarah Elaine Eaton<br>*Zenodo*<br> Aug, 2023
 - [The Metadata of "Are the Lists of Questionable Journals Reasonable: A Case Study of Early Warning Journal List"](https://zenodo.org/record/8245329)<br>**Gengyan Tang**, Jingyu Peng<br>*Zenodo*<br> Aug, 2023
 
-## Chinese Papers
+## Chinese Publications
 
 - [On rational trade-off in academic publishing peer review crisis (学术出版同行评议危机的理性权衡)](https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.19393/j.cnki.cn11-1537/g2.2022.03.016)<br>**Gengyan Tang**, Hui Li<br>*Publishing Research*(出版发行研究 CSSCI)<br> Mar, 2022
 
