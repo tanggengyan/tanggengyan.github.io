@@ -12,7 +12,7 @@ I am a dedicated researcher in the fields of research integrity, academic integr
 
 ## Research Interests
 
-My research interests include exploring the impact of artificial intelligence tools on research integrity, the role of news media in integrity education, and how complex adaptive educational leadership addresses systemic challenges in academic integrity. My papers are primarily published in the Accountability in Research.
+My research interests include exploring the impact of artificial intelligence tools on research integrity, the role of news media in integrity education, and how complex adaptive educational leadership addresses systemic challenges in academic integrity. My papers are primarily published in the *Accountability in Research*.
 
 ## Social Media
 
