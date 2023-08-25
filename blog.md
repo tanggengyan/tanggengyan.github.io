@@ -8,15 +8,14 @@ title: Blogs
 
 I have also founded a bimonthly abstract journal, *The Digest Journal of Scholarly Publishing*, which publishes outstanding papers on scholarly publishing, research integrity, academic integrity adn library science.
 
-## Vol.3
+# Vol.3
 <div class="third">
 <a href="https://mp.weixin.qq.com/s?__biz=MzA5NTk5MjIwOA==&mid=2651761542&idx=1&sn=b41a087090b6becd42720eadff823ec9&chksm=8b4ceb79bc3b626fc52845e5bb7945e7010bca5d398f173cb915da790caa26176012f5316bcb&token=807722723&lang=zh_CN#rd"><img src="/blogs/202304.jpg" class="floatpic" width="420" height="560">
 <a href="https://mp.weixin.qq.com/s?__biz=MzA5NTk5MjIwOA==&mid=2651761404&idx=1&sn=98fbbfc2daea6bfd1ef33a4181ee8f39&chksm=8b4cea03bc3b63150b69757d0e6e337b6d05cd7eddad4b05303f32532b4fd0bf7cdbf8fffa39&token=807722723&lang=zh_CN#rd"><img src="/blogs/202301.jpg" class="floatpic" width="420" height="560">
 <a href="https://mp.weixin.qq.com/s?__biz=MzA5NTk5MjIwOA==&mid=2651761391&idx=1&sn=2909f9d4c496f3766dc01a4fa3a0ae68&chksm=8b4cea10bc3b630665a8509591486c01fcee2d48f568f0aaeebbb9abb4a802a7dd4fe84a53a3&token=807722723&lang=zh_CN#rd"><img src="/blogs/speical issue 01.jpg" class="floatpic" width="420" height="560">
 </div>
 
-
-## Vol.2
+# Vol.2
 <div class="sixth">
 <a href="https://mp.weixin.qq.com/s?__biz=MzA5NTk5MjIwOA==&mid=2651761266&idx=1&sn=d08341ac0d482e8244c74e1ce1cd58b4&chksm=8b4cea8dbc3b639b685cc17073726b9f71a4e583c851e20cc5a0319ccfea1f30ac33682cc25f&token=807722723&lang=zh_CN#rd"><img src="/blogs/202212.jpg" class="floatpic" width="420" height="560">
 <a href="https://mp.weixin.qq.com/s?__biz=MzA5NTk5MjIwOA==&mid=2651761095&idx=1&sn=ba6d7fa5d05bfab4888faef420580431&chksm=8b4ce938bc3b602efc40a1940677ab50bf5d75c356298b741f438ede70652c2ec9a4826b99ea&token=807722723&lang=zh_CN#rd"><img src="/blogs/202210.jpg" class="floatpic" width="420" height="560">
@@ -26,7 +25,7 @@ I have also founded a bimonthly abstract journal, *The Digest Journal of Scholar
 <a href="https://mp.weixin.qq.com/s?__biz=MzA5NTk5MjIwOA==&mid=2651760879&idx=1&sn=6d66eef5250312b7f06acf9ce9566018&chksm=8b4ce810bc3b610622732892cffe3d4bca61229dfaba704bc7518416a913a67a1deefa477c20&token=807722723&lang=zh_CN#rd"><img src="/blogs/202202.jpg" class="floatpic" width="420" height="560">
 </div>
 
-## Vol.1
+# Vol.1
 <div class="fourth">
 <a href="https://mp.weixin.qq.com/s?__biz=MzA5NTk5MjIwOA==&mid=2651760791&idx=1&sn=4ce23431217faecb85e46d73416101d2&chksm=8b4ce868bc3b617e34c6ed9022e138007c2a64ef1524a9f0a5f3ee7bf1832a12410c7944ea3a&token=807722723&lang=zh_CN#rd"><img src="/blogs/202112.jpg" class="floatpic" width="420" height="560">
 <a href="https://mp.weixin.qq.com/s?__biz=MzA5NTk5MjIwOA==&mid=2651760593&idx=1&sn=4cd47278a93bf999eec401450e72a99d&chksm=8b4ce72ebc3b6e38911fd28b9abea1d5334e5334da93740916a6edb3a3838a0afbbbee36f2f5&token=807722723&lang=zh_CN#rd"><img src="/blogs/202110.jpg" class="floatpic" width="420" height="560">
