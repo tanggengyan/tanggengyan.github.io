@@ -30,4 +30,4 @@ I have also founded a bimonthly abstract journal, *The Digest Journal of Scholar
 <a href="https://mp.weixin.qq.com/s?__biz=MzA5NTk5MjIwOA==&mid=2651760593&idx=1&sn=4cd47278a93bf999eec401450e72a99d&chksm=8b4ce72ebc3b6e38911fd28b9abea1d5334e5334da93740916a6edb3a3838a0afbbbee36f2f5&token=807722723&lang=zh_CN#rd"><img src="/blogs/202110.jpg" width="420" height="560">
 <a href="https://mp.weixin.qq.com/s?__biz=MzA5NTk5MjIwOA==&mid=2651760521&idx=1&sn=7b679c2b0f29562a9eaf5ea6d584b170&chksm=8b4ce776bc3b6e605b4bbaee312ff463ef025c09e0a582fdd412a42edc5bcc5a1d7d8a152a3a&token=807722723&lang=zh_CN#rd"><img src="/blogs/202108.jpg" width="420" height="560">
 <a href="https://mp.weixin.qq.com/s?__biz=MzA5NTk5MjIwOA==&mid=2651760368&idx=1&sn=d4a3f2eb5bf6aca2ef6609f3c4b523ec&chksm=8b4ce60fbc3b6f19a5ad95397979312429a016808f127a48c88ce8d8b227c481fe4a00b1ae11&token=807722723&lang=zh_CN#rd"><img src="/blogs/202106.jpg"  width="420" height="560">
-</div>
+
