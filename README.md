@@ -3,7 +3,7 @@
 <img src="1664867172379.jpg" class="floatpic" width="480" height="480">
 
 
-Hi 👋 My name is **Gengyan (Kyan) Tang [Chinese:唐耕砚]**. Here is [my latest CV](CV-Gengyan.pdf). I am a dedicated researcher in the fields of research integrity, academic integrity, and scholarly publishing. 
+Hi 👋 My name is **Gengyan (Kyan) Tang [Chinese name:唐耕砚]**. Here is [my latest CV](CV-Gengyan.pdf). I am a dedicated researcher in the fields of research integrity, academic integrity, and scholarly publishing. 
 
 ## Research Interests
 
