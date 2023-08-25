@@ -11,8 +11,7 @@ I have also founded a bimonthly abstract journal, *The Digest Journal of Scholar
 
 ## Publishing 2023
 
-<div class="third">
-  
+<div class="third">  
 <a href="https://mp.weixin.qq.com/s?__biz=MzA5NTk5MjIwOA==&mid=2651761542&idx=1&sn=b41a087090b6becd42720eadff823ec9&chksm=8b4ceb79bc3b626fc52845e5bb7945e7010bca5d398f173cb915da790caa26176012f5316bcb&token=807722723&lang=zh_CN#rd"><img src="/blogs/202304.jpg" width="420" height="560"></a> 
 <a href="https://mp.weixin.qq.com/s?__biz=MzA5NTk5MjIwOA==&mid=2651761404&idx=1&sn=98fbbfc2daea6bfd1ef33a4181ee8f39&chksm=8b4cea03bc3b63150b69757d0e6e337b6d05cd7eddad4b05303f32532b4fd0bf7cdbf8fffa39&token=807722723&lang=zh_CN#rd"><img src="/blogs/202301.jpg"  width="420" height="560"></a>
 <a href="https://mp.weixin.qq.com/s?__biz=MzA5NTk5MjIwOA==&mid=2651761391&idx=1&sn=2909f9d4c496f3766dc01a4fa3a0ae68&chksm=8b4cea10bc3b630665a8509591486c01fcee2d48f568f0aaeebbb9abb4a802a7dd4fe84a53a3&token=807722723&lang=zh_CN#rd"><img src="/blogs/speical issue 01.jpg" width="420" height="560"></a>  
