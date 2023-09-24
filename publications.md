@@ -12,7 +12,7 @@ title: Publications
 
 - A rapid investigation of artificial intelligence generated content footprints in scholarly publications<br>**Gengyan Tang**, Sarah Elaine Eaton<br>*Accountability in Research*<br> Under Review
 
-- Are the lists of questionable journals reasonable: A case study of Early Warning Journal Lists<br>**Gengyan Tang**, Jingyu Peng<br>*Accountability in Research*<br> Accept
+- [Are the lists of questionable journals reasonable: A case study of Early Warning Journal Lists](https://doi.org/10.1080/08989621.2023.2261846)<br>**Gengyan Tang**, Jingyu Peng<br>*Accountability in Research*<br> Spe, 2023
 
 - [Status bias in Chinese scholarly publishing: An exploratory study based on mixed methods](https://www.tandfonline.com/doi/full/10.1080/08989621.2022.2117621)<br>**Gengyan Tang**, Hao Cai, Jingwen Jia<br>*Accountability in Research*<br> Sep, 2022
 
