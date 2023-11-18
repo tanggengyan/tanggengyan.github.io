@@ -7,7 +7,7 @@ Hi 👋 My name is **Gengyan (Kyan) Tang [Chinese name:唐耕砚]**. Here is [my
 
 ## Research Interests
 
-My research interests include exploring the impact of artificial intelligence tools on research integrity, the role of news media in integrity education, and how complex adaptive educational leadership addresses systemic challenges in academic integrity. My papers are primarily published in the *Accountability in Research*.
+My research interests include exploring the impact of artificial intelligence tools on research integrity, the role of news media in integrity education, and how complex adaptive educational leadership addresses systemic challenges in academic integrity. 
 
 ## Social Media
 
