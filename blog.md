@@ -9,7 +9,7 @@ title: Blogs
 I have also founded a bimonthly abstract journal, *The Digest Journal of Scholarly Publishing*, which publishes outstanding papers on scholarly publishing, research integrity, academic integrity and library science.
 <br>
 
-## Publishing 2023
+## Archive 2023
 
 <div class="third">  
 <a href="https://mp.weixin.qq.com/s?__biz=MzA5NTk5MjIwOA==&mid=2651761677&idx=1&sn=1a123206a3768da571b4034c85918268&chksm=8b4cecf2bc3b65e47628d5a65edaf5c62300f5441dc495c36fedb40b618465e47607142b1d25&token=287785759&lang=zh_CN#rd"><img src="/blogs/202306.jpg" width="420" height="560"></a> 
