@@ -11,7 +11,7 @@ My research interests include exploring the impact of artificial intelligence to
 
 ## Social Media
 
-In 2021, I founded the WeChat Offical Account *Journal Observer*(期刊观察). From time to time, I have been sharing profound research findings on research integrity, scholarly publishing, and academic integrity in the *Journal Observer*. As of 3o Nov. 2023, the *Journal Observer* had 4,000 subscribers, with an average of 800 reads per article.
+In 2021, I founded the WeChat Offical Account *Journal Observer*(期刊观察). From time to time, I have been sharing profound research findings on research integrity, scholarly publishing, and academic integrity in the *Journal Observer*. As of 3 Jan. 2024, the *Journal Observer* had 5,000 subscribers, with an average of 800 reads per article.
 
 ## Statement
 
