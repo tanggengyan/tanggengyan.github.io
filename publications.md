@@ -10,7 +10,7 @@ title: Publications
 
 ### Research Article
 
-- What Factors Influence the Punishment of Research Misconduct: Evidence from Hospitals in Mainland China<br>**Gengyan Tang**<br> Under Review
+- What factors influence the punishment of research misconduct: Evidence from hospitals in mainland China<br>**Gengyan Tang**<br> Under Review
   
 - A rapid investigation of artificial intelligence generated content footprints in scholarly publications<br>**Gengyan Tang**, Sarah Elaine Eaton<br>*Journal of Scholarly Publishing*<br> Accept
 
@@ -33,8 +33,9 @@ title: Publications
 - [Letter to Editor: Academic journals should clarify the proportion of NLP-generated content in papers](https://www.tandfonline.com/doi/full/10.1080/08989621.2023.2180359)<br>**Gengyan Tang**<br>*Accountability in Research*<br> Feb, 2023
 
 ### Data Set
-- [The Metadata of "A Rapid Investigation of Artificial Intelligence Generated Content Footprints in Scholarly Publications"](https://zenodo.org/record/8227899)<br>**Gengyan Tang**, Sarah Elaine Eaton<br>*Zenodo*<br> Aug, 2023
-- [The Metadata of "Are the Lists of Questionable Journals Reasonable: A Case Study of Early Warning Journal List"](https://zenodo.org/record/8245329)<br>**Gengyan Tang**, Jingyu Peng<br>*Zenodo*<br> Aug, 2023
+- [The metadata of "What factors influence the punishment of research misconduct: Evidence from hospitals in mainland China"](https://doi.org/10.5281/zenodo.10544715)<br>**Gengyan Tang**<br>*Zenodo*<br> Jan, 2024
+- [The metadata of "A rapid investigation of artificial intelligence generated content footprints in scholarly publications"](https://doi.org/10.5281/zenodo.8227899)<br>**Gengyan Tang**, Sarah Elaine Eaton<br>*Zenodo*<br> Aug, 2023
+- [The metadata of "Are the lists of questionable journals reasonable: A case study of Early Warning Journal Lists"](https://doi.org/10.5281/zenodo.8245329))<br>**Gengyan Tang**, Jingyu Peng<br>*Zenodo*<br> Aug, 2023
 
 ## Chinese Publications
 
