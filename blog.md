@@ -10,8 +10,10 @@ I have also founded a bimonthly abstract journal, *The Digest Journal of Scholar
 <br>
 
 ## Publishing 2024
+
 <div class="third">  
 <a href="https://mp.weixin.qq.com/s?__biz=MzA5NTk5MjIwOA==&mid=2651761759&idx=1&sn=254000ccfb0e4b419f1e4fd940209676&chksm=8b4ceca0bc3b65b6e5e54f03662afacadf7a9a974a377d1a69d44ca904936315d525af787ac7&token=1318527434&lang=zh_CN#rd"><img src="/blogs/202401.jpg" width="420" height="560"></a> 
+</div>
 
 ## Archive 2023
 
