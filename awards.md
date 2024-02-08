@@ -22,4 +22,5 @@ title: Awards
 # Voluntary
 
 - *Oct 2022 - Present:* Peer Reviewer, *Accountability in Research: Ethics, Integrity and Policy*
+- *Jan 2024 - Present:* Peer Reviewer, *Journal of Librarianship and Scholarly Communication*
 - *Sep 2021 - Present:* Student Member, The Chinese Association of Science of Science and S&T Policy Research, Professional Committee of Sociology of Science 
