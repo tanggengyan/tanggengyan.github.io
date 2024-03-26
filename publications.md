@@ -35,7 +35,7 @@ title: Publications
 ### Data Set
 - [The metadata of "What factors influence the punishment of research misconduct: Evidence from hospitals in mainland China"](https://doi.org/10.5281/zenodo.10544715)<br>**Gengyan Tang**<br>*Zenodo*<br> Jan, 2024
 - [The metadata of "A rapid investigation of artificial intelligence generated content footprints in scholarly publications"](https://doi.org/10.5281/zenodo.8227899)<br>**Gengyan Tang**, Sarah Elaine Eaton<br>*Zenodo*<br> Aug, 2023
-- [The metadata of "Are the lists of questionable journals reasonable: A case study of Early Warning Journal Lists"](https://doi.org/10.5281/zenodo.8245329))<br>**Gengyan Tang**, Jingyu Peng<br>*Zenodo*<br> Aug, 2023
+- [The metadata of "Are the lists of questionable journals reasonable: A case study of Early Warning Journal Lists"](https://doi.org/10.5281/zenodo.8245329)<br>**Gengyan Tang**, Jingyu Peng<br>*Zenodo*<br> Aug, 2023
 
 ## Chinese Publications
 
