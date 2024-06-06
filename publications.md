@@ -12,7 +12,7 @@ title: Publications
 
 - The punishment intensity for research misconduct and its related factors: An exploratory study on hospitals in mainland China China<br>**Gengyan Tang**<br> Under Review
   
-- A rapid investigation of artificial intelligence generated content footprints in scholarly publications<br>**Gengyan Tang**, Sarah Elaine Eaton<br>*Journal of Scholarly Publishing*<br> Accept
+- [A rapid investigation of artificial intelligence generated content footprints in scholarly publications](https://doi.org/10.3138/jsp-2023-0079)<br>**Gengyan Tang**, Sarah Elaine Eaton<br>*Journal of Scholarly Publishing*<br> May, 2024
 
 - [Are the lists of questionable journals reasonable: A case study of Early Warning Journal Lists](https://doi.org/10.1080/08989621.2023.2261846)<br>**Gengyan Tang**, Jingyu Peng<br>*Accountability in Research*<br> Sep, 2023
 
