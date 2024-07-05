@@ -10,7 +10,7 @@ title: Publications
 
 ### Research Article
 
-- The punishment intensity for research misconduct and its related factors: An exploratory study on hospitals in Mainland China<br>**Gengyan Tang**<br> Under Review
+- The punishment intensity for research misconduct and its related factors: An exploratory study on hospitals in Mainland China<br>**Gengyan Tang**<br>*Accountability in Research*<br>In Press
   
 - [A rapid investigation of artificial intelligence generated content footprints in scholarly publications](https://doi.org/10.3138/jsp-2023-0079)<br>**Gengyan Tang**, Sarah Elaine Eaton<br>*Journal of Scholarly Publishing*<br> May, 2024
 
