@@ -19,10 +19,14 @@ title: Awards
 - *May 2020:* **The 1st Prize for Academic Scholarship** 
 
 
-# Voluntary
+# Peer Review
 
 - *Oct 2022 - Present:* Peer Reviewer, *Accountability in Research: Ethics, Integrity and Policy*
 - *Jan 2024 - Present:* Peer Reviewer, *Journal of Librarianship and Scholarly Communication*
 - *Mar 2024 - Present:* Peer Reviewer, *Journal of Librarianship and Information Science*
 - *Mar 2024 - Present:* Peer Reviewer, *Journal of Scholarly Publishing*
+- *Jun 2024 - Present:* Peer Reviewer, *BMC Medical Research Methodology*
+- *Jun 2024 - Present:* Peer Reviewer, *BMC Medical Education*
+- *Aug 2024 - Present:* Peer Reviewer, *Frontiers in Education*
+- *Sep 2024 - Present:* Peer Reviewer, *Discover Education*
 - *Sep 2021 - Present:* Student Member, The Chinese Association of Science of Science and S&T Policy Research, Professional Committee of Sociology of Science 
