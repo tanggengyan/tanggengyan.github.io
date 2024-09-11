@@ -54,8 +54,7 @@ title: Publications
 - [Public opinion governance dilemma faced by preprint platforms and corresponding countermeasures (预印本平台的舆论治理困境与应对策略：基于“新型冠状病毒肺炎”事件的反思)](https://d.wanfangdata.com.cn/periodical/kxxyj202104002)<br>**Gengyan Tang**, Hao Cai<br>*Studies in Science of Science*(科学学研究 CSSCI)<br> Apr, 2021
 
 - [Research on the impact of journalism and communication periodical contents on academic influence (新闻传播学期刊载文量对学术影响力的影响研究)](https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjQwNzA0Eg14d3R4MjAyMTAyMDE0GghyMnhsYTV4YQ%3D%3D)<br>**Gengyan Tang**, Ji Lu, Hui Li<br>*Media Observer*(传媒观察 CSSCI)<br> Feb, 2021
-- 
+
 - [Characteristic elements of Chinese predatory journals based on Grounded Theory (基于扎根理论的中文掠夺性期刊特征要素研究)](https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjQwNzA0EhF6Z2tqcWt5ajIwMjAxMjAwMhoIcjJ4bGE1eGE%3D)<br>**Gengyan Tang**, Xingxia Long, Hao Cai, Qiujiang Li<br>*Chinese Journal of Scientific and Technical Periodicals*(中国科技期刊研究 CSSCI)<br> Dec, 2020
 
 - [Strategies on shortening publication delays of scientific and technological periodicals (科技期刊缩短出版时滞策略研究：以“新型冠状病毒肺炎”事件中的医学期刊为例)](https://d.wanfangdata.com.cn/periodical/cbkx202003011)<br>**Gengyan Tang**<br>*Publishing Journal*(出版科学 CSSCI)<br> May, 2020
-
