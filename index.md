@@ -22,6 +22,4 @@ I’ve also become increasingly interested in the challenges emerging technologi
 
 On a more personal note, I’m a proud cat parent. My cat, Mimi, was a stray I found on a street corner in Chongqing shortly after my grandmother and great-grandmother passed away. I took him in and cared for him for three years before moving to Canada. Now, my mother looks after Mimi, who has grown from his original 3 kilograms to a healthy 5 kilograms. He is thriving.
 
-## Social Media
 
-In 2021, I founded the WeChat Offical Account *Journal Observer*(期刊观察). From time to time, I have been sharing profound research findings on research integrity, scholarly publishing, and academic integrity in the *Journal Observer*. As of 3 Jan. 2024, the *Journal Observer* had 5,000 subscribers, with an average of 800 reads per article.
