@@ -17,11 +17,15 @@ title: Awards
 - *Oct 2020:* The Excellent Paper Awards(Nanjing Normal University, China)  
 - *Oct 2020:* The 3rd Prize for Excellent Papers(Communication Society of Fujian, China)
 - *Dec 2021:* **The 1st Prize for Academic Scholarship** 
-- *May 2020:* **The 1st Prize for Academic Scholarship** 
+- *May 2020:* **The 1st Prize for Academic Scholarship**
 
+# Memberships & Affiliations
 
-# Peer Review
+- Committee on Publication Ethics (COPE)
+- The Chinese Association of Science of Science and S&T Policy Research
 
+# Peer Reviewer
+I have served as a peer reviewer for the following academic journals：
 - *Oct 2022 - Present:* Peer Reviewer, *Accountability in Research: Ethics, Integrity and Policy*
 - *Jan 2024 - Present:* Peer Reviewer, *Journal of Librarianship and Scholarly Communication*
 - *Mar 2024 - Present:* Peer Reviewer, *Journal of Librarianship and Information Science*
@@ -30,4 +34,5 @@ title: Awards
 - *Jun 2024 - Present:* Peer Reviewer, *BMC Medical Education*
 - *Aug 2024 - Present:* Peer Reviewer, *Frontiers in Education*
 - *Sep 2024 - Present:* Peer Reviewer, *Discover Education*
-- *Sep 2021 - Present:* Student Member, The Chinese Association of Science of Science and S&T Policy Research, Professional Committee of Sociology of Science 
+- *Oct 2024 - Present:* Peer Reviewer, *Scientific Reports*
+- *Nov 2024 - Present:* Peer Reviewer, *International Journal for Educational Integrity*
