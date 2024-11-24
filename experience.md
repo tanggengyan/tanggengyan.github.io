@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /awards/index.html
-title: Awards
+permalink: /experience/index.html
+title: Experience
 ---
 
 # Awards & Honors
@@ -9,7 +9,7 @@ title: Awards
 **Update in 10th Sep 2024**
 
 - *Apr 2024:* **International Graduate Tuition Award, University of Calgary** 
-- *Dec 2021:* **China National Scholarship (Top 1%)** 🎉
+- *Dec 2021:* **China National Scholarship (Top 1%)** 
 - *Dec 2020:* **China National Scholarship (Top 1%)** 
 - *Jun 2021:* Outstanding University Graduates in Sichuan Province(**Only Best Student** in my major, **1/45**)
 - *Jun 2021*: The 3rd Prize of the 19th Social Science Excellent Achievement Award(The People’s Government of Sichuan Province, China)
