@@ -17,4 +17,5 @@ title: Blogs
 <div>
 <img src="/blogs/20241123.png">
 </div>
+
 - [Artificial intelligence tools may widen the gap between international students from different language backgrounds](https://www.tanggengyan.com/blogs/20241123)
