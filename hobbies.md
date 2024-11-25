@@ -15,6 +15,11 @@ I love photography and recording life. I want to record every wonderful moment a
 In August 2024, I moved to Calgary. It all felt like a dream. Before this, I had never imagined that I would have the chance to study and live in another country. Calgary's summers and autumns are breathtaking, especially on the way to Banff. I love watching the sunlight spill over the mountains, making them look like jade adorned with gold. Winter in Calgary is bitterly cold, but to someone from the south like me, the snow is still nothing short of beautiful.
 
 
+<div class="third">
+<img src="/image/Calgary01.jpg">
+<img src="/image/Calgary02.jpg">
+<img src="/image/Calgary03.jpg">
+</div>
 
 ### 2024 CHONGQING
 
