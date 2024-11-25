@@ -20,6 +20,7 @@ In August 2024, I moved to Calgary. It all felt like a dream. Before this, I had
 <img src="/image/Calgary02.jpg">
 <img src="/image/Calgary03.jpg">
 </div>
+<br>
 
 ### 2024 CHONGQING
 
@@ -30,6 +31,7 @@ I’ve spent four unforgettable years living in Chongqing, moving from Bishan to
 <img src="/image/Photo No.2.jpg">
 <img src="/image/Photo No.3.jpg">
 </div>
+<br>
 
 ## My Cat
 
