@@ -10,7 +10,7 @@ title: Hobbies
 
 Photography is my way of capturing the magic in everyday life. I cherish the ability to freeze fleeting moments—those bursts of joy, quiet reflections, and unexpected beauty—and preserve them forever. It’s not just about documenting my experiences; it’s about sharing these stories with others, hoping to spread a little happiness, inspire wonder, and remind people of the beauty that surrounds us, even in the smallest things. For me, every click of the shutter is a way to connect, to tell a story, and to celebrate the extraordinary within the ordinary.
 
-### 2024 CALGARY
+### 2024 in Calgary
 
 In August 2024, I moved to Calgary. It all felt like a dream. Before this, I had never imagined that I would have the chance to study and live in another country. Calgary's summers and autumns are breathtaking, especially on the way to Banff. I love watching the sunlight spill over the mountains, making them look like jade adorned with gold. Winter in Calgary is bitterly cold, but to someone from the south like me, the snow is still nothing short of beautiful.
 
@@ -22,7 +22,7 @@ In August 2024, I moved to Calgary. It all felt like a dream. Before this, I had
 </div>
 <br>
 
-### 2024 CHONGQING
+### 2021-2024 in Chongqing
 
 I’ve spent four unforgettable years living in Chongqing, moving from Bishan to Jiulongpo District. Every flower, every tree in this city feels like an old friend. What captivates me the most are the bold, flavorful cuisine and the city’s unique, rugged terrain. But springtime is when Chongqing truly steals my heart—bougainvillea vines burst into bloom, draping every corner like a vibrant embrace, as if the city itself is sowing seeds of beauty in the hearts of its people.
 
