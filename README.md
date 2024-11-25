@@ -4,7 +4,7 @@
 
 Hi 👋 My name is **Gengyan (Kyan) Tang [Chinese name:唐耕砚]**. I am a PhD student in the Werklund School of Education at the University of Calgary. Here is [my latest CV](CV-Gengyan.pdf).
 
-My name is Gengyan Tang, and I was born in a small city in southwestern China—Fushun, Zigong. I spent the first 18 years of my life there, receiving all my K-12 education in the same place. Growing up, my exposure to English was very basic, with virtually no training in speaking or listening. After high school, I moved to Chengdu, the capital of Sichuan Province, where I lived for eight years before relocating to Chongqing, a city 300 kilometers away, for another three years.
+I was born in a small city in southwestern China—Fushun, Zigong. I spent the first 18 years of my life there, receiving all my K-12 education in the same place. Growing up, my exposure to English was very basic, with virtually no training in speaking or listening. After high school, I moved to Chengdu, the capital of Sichuan Province, where I lived for eight years before relocating to Chongqing, a city 300 kilometers away, for another three years.
 
 Chongqing quickly became my favorite city. I was captivated by its stunning, dreamlike cityspace and, of course, its unbeatable hotpot cuisine.
 
