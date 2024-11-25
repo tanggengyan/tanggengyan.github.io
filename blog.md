@@ -6,7 +6,7 @@ title: Blogs
 
 # Blogs
 
-### 2024
+## 2024
 
 <div>
 <img src="/blogs/20241124(1).jpg">
