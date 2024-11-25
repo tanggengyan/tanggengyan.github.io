@@ -4,9 +4,9 @@ permalink: /experience/index.html
 title: Experience
 ---
 
-# Awards & Honors
+> Update in 25th Nov 2024
 
-**Update in 10th Sep 2024**
+# Awards & Honors
 
 - *Apr 2024:* **International Graduate Tuition Award, University of Calgary** 
 - *Dec 2021:* **China National Scholarship (Top 1%)** 
