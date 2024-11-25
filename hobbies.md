@@ -45,6 +45,16 @@ I completed both my undergraduate and master's programs in Chengdu, a city rich 
 </div>
 <br>
 
+### 1995-2014 in Fushun
+
+Fushun is the place where I grew up, spending the first 18 years of my life there. While my high school experience left much to be desired (I blame it on a "bad apple" education system), my elementary and middle school years were filled with joy and happiness. I still vividly remember running along the banks of the Tuojiang River, catching fish, dragonflies, and butterflies. My friends and I laughed loudly, played around, and dreamed about the future on the school playground. Fushun is an indelible part of who I am, etched into me as deeply as its every corner is imprinted in my memory. 
+
+<div class="third">
+<img src="/image/Fushun01.jpg">
+<img src="/image/Fushun02.jpg">
+<img src="/image/Fushun03.jpg">
+</div>
+<br>
 
 ## My Cat
 
