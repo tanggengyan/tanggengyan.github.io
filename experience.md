@@ -26,13 +26,13 @@ title: Experience
 
 # Peer Reviewer
 I have served as a peer reviewer for the following academic journals：
-- *Oct 2022 - Present:* Peer Reviewer, *Accountability in Research: Ethics, Integrity and Policy*
-- *Jan 2024 - Present:* Peer Reviewer, *Journal of Librarianship and Scholarly Communication*
-- *Mar 2024 - Present:* Peer Reviewer, *Journal of Librarianship and Information Science*
-- *Mar 2024 - Present:* Peer Reviewer, *Journal of Scholarly Publishing*
-- *Jun 2024 - Present:* Peer Reviewer, *BMC Medical Research Methodology*
-- *Jun 2024 - Present:* Peer Reviewer, *BMC Medical Education*
-- *Aug 2024 - Present:* Peer Reviewer, *Frontiers in Education*
-- *Sep 2024 - Present:* Peer Reviewer, *Discover Education*
-- *Oct 2024 - Present:* Peer Reviewer, *Scientific Reports*
-- *Nov 2024 - Present:* Peer Reviewer, *International Journal for Educational Integrity*
+- Oct 2022 - Present: Peer Reviewer, *Accountability in Research: Ethics, Integrity and Policy*
+- Jan 2024 - Present: Peer Reviewer, *Journal of Librarianship and Scholarly Communication*
+- Mar 2024 - Present: Peer Reviewer, *Journal of Librarianship and Information Science*
+- Mar 2024 - Present: Peer Reviewer, *Journal of Scholarly Publishing*
+- Jun 2024 - Present: Peer Reviewer, *BMC Medical Research Methodology*
+- Jun 2024 - Present: Peer Reviewer, *BMC Medical Education*
+- Aug 2024 - Present: Peer Reviewer, *Frontiers in Education*
+- Sep 2024 - Present: Peer Reviewer, *Discover Education*
+- Oct 2024 - Present: Peer Reviewer, *Scientific Reports*
+- Nov 2024 - Present: Peer Reviewer, *International Journal for Educational Integrity*
