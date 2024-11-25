@@ -33,6 +33,19 @@ I’ve spent four unforgettable years living in Chongqing, moving from Bishan to
 </div>
 <br>
 
+
+### 2014-2020 in Chengdu
+
+I completed both my undergraduate and master's programs in Chengdu, a city rich in cultural heritage. If you ever visit, you’ll understand why so many scholars and poets throughout Chinese history were drawn to this place. What I love most, though, is Qingcheng Mountain, located not far from the city. Its tranquil environment makes it my go-to retreat to refresh my spirit. As the birthplace of Taoism in China, Qingcheng Mountain has a unique energy that brings an incredible sense of peace every time I visit.
+
+<div class="third">
+<img src="/image/Chengdu01.jpg">
+<img src="/image/Chengdu02.jpg">
+<img src="/image/Chengdu03.jpg">
+</div>
+<br>
+
+
 ## My Cat
 
 This is my cat, Mimi. He’s 3 years old now, soon turning 4, and weighs 5 kilograms. Mimi came into my life during one of my most anxious and challenging times. Back then, I was coping with the loss of both my grandmother and great-grandmother, along with the disappointment of failing to secure a spot in a PhD program. Mimi became a tremendous source of emotional support for me. Right now, my mom is taking care of him, but once I finish my studies, I plan to bring him to live by my side.
