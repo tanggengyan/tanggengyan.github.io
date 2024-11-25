@@ -8,7 +8,7 @@ title: Hobbies
 
 ## Photography
 
-I love photography and recording life. I want to record every wonderful moment and share it to bring happiness to all people.
+Photography is my way of capturing the magic in everyday life. I cherish the ability to freeze fleeting moments—those bursts of joy, quiet reflections, and unexpected beauty—and preserve them forever. It’s not just about documenting my experiences; it’s about sharing these stories with others, hoping to spread a little happiness, inspire wonder, and remind people of the beauty that surrounds us, even in the smallest things. For me, every click of the shutter is a way to connect, to tell a story, and to celebrate the extraordinary within the ordinary.
 
 ### 2024 CALGARY
 
