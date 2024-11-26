@@ -26,7 +26,7 @@ On a more personal note, I’m a proud cat parent. My cat, Mimi, was a stray I f
 
 - **Nov 2024:** I became an individual member of COPE (Committee on Publication Ethics).
 - **Aug 2024:** I moved to the University of Calgary to begin my PhD program.
-- 
+
 ## Statement
 
 © 2024 Gengyan Tang. Powered by [Hanlin Cai](https://caihanlin.com/) and [Jekyll](https://jekyllrb.com/), based on the [Minimal Mistakes](https://mademistakes.com/) theme. Source code for this website can be found [here](https://github.com/GuangLun2000/GuangLun2000.github.io).
