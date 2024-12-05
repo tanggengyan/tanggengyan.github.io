@@ -24,7 +24,7 @@ On a more personal note, I’m a proud cat parent. My cat, Mimi, was a stray I f
 
 ## News and Updates
 
-- **Dec 2024:** My correspondence to Nature has been accepted and will be published early next year.
+- **Dec 2024:** My correspondence to *Nature* has been accepted and will be published early next year.
 - **Nov 2024:** I became an individual member of COPE (Committee on Publication Ethics).
 - **Aug 2024:** I moved to the University of Calgary to begin my PhD program.
 
