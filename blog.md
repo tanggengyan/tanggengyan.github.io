@@ -20,8 +20,8 @@ title: Blogs
   }
 
   .card-container img {
-    width: 120px; 
-    height: 80px;
+    width: 150px; 
+    height: 100px;
     object-fit: cover;
     border-radius: 8px;
     margin-right: 15px; 
