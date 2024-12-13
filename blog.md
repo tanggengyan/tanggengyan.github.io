@@ -9,6 +9,12 @@ title: Blogs
 ## 2024
 
 <div>
+<img src="/blogs/20241213figure/Figure 6.jpg">
+</div>
+
+- [University Rankings Overlook Academic Retractions: A Postplagiarism Perspectivel Identity](https://www.tanggengyan.com/blogs/20241213)
+
+<div>
 <img src="/blogs/20241124(1).jpg">
 </div>
 
