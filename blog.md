@@ -20,7 +20,7 @@ title: Blogs
   }
 
   .card-container img {
-    width: 120px; 
+    width: 120px;
     height: 80px; 
     object-fit: cover; 
     border-radius: 8px; 
@@ -35,7 +35,7 @@ title: Blogs
   }
 
   .card-container a:hover {
-    color: #007BFF; 
+    color: #007BFF;
   }
 </style>
 
@@ -53,4 +53,3 @@ title: Blogs
   <img src="/blogs/20241123.png" alt="Figure 8">
   <a href="https://www.tanggengyan.com/blogs/20241123">Artificial Intelligence Tools may Widen the Gap between International Students from Different Language Backgrounds</a>
 </div>
-
