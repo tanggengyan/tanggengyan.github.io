@@ -26,6 +26,8 @@ title: Publications
 
 ### Letter & Correspondence
 
+- [Apply the legal ‘true malice’ principle to protect research-misconduct sleuths](https://doi.org/10.1038/d41586-024-04230-3))<br>**Gengyan Tang**<br>*Nature*<br> Jan, 2025
+
 - [Academic journals should rethink the concept of originality before permitting the use of ChatGPT](https://ese.arphahub.com/article/104148/)<br>**Gengyan Tang**<br>*European Science Editing*<br> May, 2023
 
 - [Academic journals cannot simply require authors to declare that they used ChatGPT](https://link.springer.com/article/10.1007/s11845-023-03374-x)<br>**Gengyan Tang**<br>*Irish Journal of Medical Science (1971 -)*<br> Apr, 2023
