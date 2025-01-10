@@ -10,7 +10,7 @@ title: Publications
 
 ### Research Article
 
--[Using mixed methods research to study research integrity: Current status, issues, and guidelines](https://doi.org/10.1080/08989621.2024.2449041)<br>**Gengyan Tang**<br>*Accountability in Research*<br> Jan, 2025
+- [Using mixed methods research to study research integrity: Current status, issues, and guidelines](https://doi.org/10.1080/08989621.2024.2449041)<br>**Gengyan Tang**<br>*Accountability in Research*<br> Jan, 2025
 
 - [The punishment intensity for research misconduct and its related factors: An exploratory study on hospitals in Mainland China](https://doi.org/10.1080/08989621.2024.2377723)<br>**Gengyan Tang**<br>*Accountability in Research*<br> Jul, 2024
   
