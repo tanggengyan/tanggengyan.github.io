@@ -43,7 +43,16 @@ title: Publications
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
-- [Are the lists of questionable journals reasonable: A case study of Early Warning Journal Lists](https://doi.org/10.1080/08989621.2023.2261846)<br>**Gengyan Tang**, Jingyu Peng<br>*Accountability in Research*<br> Sep, 2023
+- <div style="display: flex; align-items: center;">
+    <a href="https://doi.org/10.1080/08989621.2023.2261846" target="_blank">Are the lists of questionable journals reasonable: A case study of Early Warning Journal Lists</a>
+    <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="154607337" style="margin-left: 10px;"></div>
+  </div>
+
+  **Gengyan Tang**, Jingyu Peng  
+  *Accountability in Research*  
+  Sep, 2023
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>]
 
 - [Status bias in Chinese scholarly publishing: An exploratory study based on mixed methods](https://www.tandfonline.com/doi/full/10.1080/08989621.2022.2117621)<br>**Gengyan Tang**, Hao Cai, Jingwen Jia<br>*Accountability in Research*<br> Sep, 2022
 
