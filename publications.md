@@ -37,9 +37,9 @@ title: Publications
     <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="164455281" style="margin-left: 10px;"></div>
   </div>
   
-  **Gengyan Tang** , Sarah Elaine Eaton
-  *Journal of Scholarly Publishing*
-   May, 2024
+  **Gengyan Tang**, Sarah Elaine Eaton  
+  *Journal of Scholarly Publishing*  
+  May, 2024
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>   
 
