@@ -48,7 +48,7 @@ title: Publications
     <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="154607337" style="margin-left: 10px;"></div>
   </div>
 
-  **Gengyan Tang**, Jingyu Peng
+  **Gengyan Tang**, Jingyu Peng<br> 
   *Accountability in Research*  
   Sep, 2023
 
@@ -59,7 +59,7 @@ title: Publications
     <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="134953689" style="margin-left: 10px;"></div>
   </div>
 
-  **Gengyan Tang**, Hao Cai & Jingwen, Jia<br> 
+  **Gengyan Tang**, Hao Cai & Jingwen Jia<br> 
   *Accountability in Research* <br> 
   Sep, 2022
 
@@ -70,7 +70,7 @@ title: Publications
     <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="134014063" style="margin-left: 10px;"></div>
   </div>
 
-  **Gengyan Tang**, Jingwen, Jia <br>
+  **Gengyan Tang**, Jingwen Jia <br>
   *Accountability in Research*  <br>
   Aug, 2022
 
@@ -81,7 +81,7 @@ title: Publications
     <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="110486589" style="margin-left: 10px;"></div>
   </div>
 
-  **Gengyan Tang**, Jingwen, Jia <br>
+  **Gengyan Tang**, Jingwen Jia <br>
   *Accountability in Research*  <br>
   Aug, 2022
 
