@@ -32,8 +32,17 @@ title: Publications
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
+ - <div style="display: flex; align-items: center;">
+    <a href="https://doi.org/10.3138/jsp-2023-0079" target="_blank">A rapid investigation of artificial intelligence generated content footprints in scholarly publications</a>
+    <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="164455281" style="margin-left: 10px;"></div>
+  </div>
   
-- [A rapid investigation of artificial intelligence generated content footprints in scholarly publications](https://doi.org/10.3138/jsp-2023-0079)<br>**Gengyan Tang**, Sarah Elaine Eaton<br>*Journal of Scholarly Publishing*<br> May, 2024
+  **Gengyan Tang**  , Sarah Elaine Eaton
+  *Journal of Scholarly Publishing*
+  May, 2024
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>   
+
 
 - [Are the lists of questionable journals reasonable: A case study of Early Warning Journal Lists](https://doi.org/10.1080/08989621.2023.2261846)<br>**Gengyan Tang**, Jingyu Peng<br>*Accountability in Research*<br> Sep, 2023
 
