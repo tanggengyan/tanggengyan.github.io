@@ -100,13 +100,47 @@ title: Publications
 
 ### Letter & Correspondence
 
-- [Apply the legal ‘true malice’ principle to protect research-misconduct sleuths](https://doi.org/10.1038/d41586-024-04230-3)<br>**Gengyan Tang**<br>*Nature*<br> Jan, 2025
+- <div style="display: flex; align-items: center;">
+    <a href="https://doi.org/10.1038/d41586-024-04230-3" target="_blank">Apply the legal ‘true malice’ principle to protect research-misconduct sleuths</a>
+    <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="172541667" style="margin-left: 10px;"></div>
+  </div>
 
-- [Academic journals should rethink the concept of originality before permitting the use of ChatGPT](https://ese.arphahub.com/article/104148/)<br>**Gengyan Tang**<br>*European Science Editing*<br> May, 2023
+  **Gengyan Tang**<br>
+  *Nature*  <br>
+  Jan, 2025
 
-- [Academic journals cannot simply require authors to declare that they used ChatGPT](https://link.springer.com/article/10.1007/s11845-023-03374-x)<br>**Gengyan Tang**<br>*Irish Journal of Medical Science (1971 -)*<br> Apr, 2023
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
-- [Letter to Editor: Academic journals should clarify the proportion of NLP-generated content in papers](https://www.tandfonline.com/doi/full/10.1080/08989621.2023.2180359)<br>**Gengyan Tang**<br>*Accountability in Research*<br> Feb, 2023
+- <div style="display: flex; align-items: center;">
+    <a href="https://doi.org/10.3897/ese.2023.e104148" target="_blank">Academic journals should rethink the concept of originality before permitting the use of ChatGPT</a>
+    <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="151599564" style="margin-left: 10px;"></div>
+  </div>
+
+  **Gengyan Tang**<br>
+  *European Science Editing*  <br>
+  May, 2023
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
+- <div style="display: flex; align-items: center;">
+    <a href="https://doi.org/10.1007/s11845-023-03374-x" target="_blank">Academic journals cannot simply require authors to declare that they used ChatGPT</a>
+    <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="145692212" style="margin-left: 10px;"></div>
+  </div>
+
+  **Gengyan Tang**<br>
+  *Irish Journal of Medical Science (1971 -)*  <br>
+  Apr, 2023
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
+- <div style="display: flex; align-items: center;">
+    <a href="https://doi.org/10.1080/08989621.2023.2180359" target="_blank">Letter to Editor: Academic journals should clarify the proportion of NLP-generated content in papers</a>
+    <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="143145279" style="margin-left: 10px;"></div>
+  </div>
+
+  **Gengyan Tang**<br>
+  *Accountability in Research*  <br>
+  Feb, 2023
 
 ### Data Set
 - [The metadata of "What factors influence the punishment of research misconduct: Evidence from hospitals in mainland China"](https://doi.org/10.5281/zenodo.10544715)<br>**Gengyan Tang**<br>*Zenodo*<br> Jan, 2024
