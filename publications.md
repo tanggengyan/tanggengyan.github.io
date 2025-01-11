@@ -8,7 +8,7 @@ title: Publications
 
 ## English Publications
 
-### Research Article
+### Article
 
 - <div style="display: flex; align-items: center;">
     <a href="https://doi.org/10.1080/08989621.2024.2449041" target="_blank">Using mixed methods research to study research integrity: Current status, issues, and guidelines</a>
