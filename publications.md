@@ -10,7 +10,7 @@ title: Publications
 
 ### Research Article
 
-<div style="display: flex; align-items: center;">
+- <div style="display: flex; align-items: center;">
   <a href="https://doi.org/10.1080/08989621.2024.2449041" target="_blank">Using mixed methods research to study research integrity: Current status, issues, and guidelines</a>
   <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="172701067" style="margin-left: 10px;"></div>
 </div>
