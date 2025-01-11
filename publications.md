@@ -54,13 +54,49 @@ title: Publications
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>]
 
-- [Status bias in Chinese scholarly publishing: An exploratory study based on mixed methods](https://www.tandfonline.com/doi/full/10.1080/08989621.2022.2117621)<br>**Gengyan Tang**, Hao Cai, Jingwen Jia<br>*Accountability in Research*<br> Sep, 2022
+- <div style="display: flex; align-items: center;">
+    <a href="https://doi.org/10.1080/08989621.2022.2117621" target="_blank">Status bias in Chinese scholarly publishing: An exploratory study based on mixed methods</a>
+    <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="134953689" style="margin-left: 10px;"></div>
+  </div>
 
-- [Characteristics of blacklisted journals: Evidence from Chinese-language academic journals](https://www.tandfonline.com/doi/full/10.1080/08989621.2022.2112953)<br>**Gengyan Tang**, Jingwen Jia<br>*Accountability in Research*<br> Aug, 2022
+  **Gengyan Tang**, Hao Cai & Jingwen, Jia 
+  *Accountability in Research*  
+  Sep, 2022
 
-- [Why do master’s students of humanities and social sciences publish papers in Chinese-language predatory journals? A qualitative study based on Grounded Theory](https://www.tandfonline.com/doi/full/10.1080/08989621.2021.1960164)<br>**Gengyan Tang**, Jingwen Jia<br>*Accountability in Research*<br> Aug, 2021
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>]
 
-- [Analysis on the position of copyright trade in the Sino–US trade friction](https://link.springer.com/article/10.1007/s12109-020-09719-z)<br>**Gengyan Tang**<br>*Publishing Research Quarterly*<br> Jun, 2021
+- <div style="display: flex; align-items: center;">
+    <a href="https://doi.org/10.1080/08989621.2022.2117621" target="_blank">Characteristics of blacklisted journals: Evidence from Chinese-language academic journals</a>
+    <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="134014063" style="margin-left: 10px;"></div>
+  </div>
+
+  **Gengyan Tang**, Jingwen, Jia 
+  *Accountability in Research*  
+  Aug, 2022
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>]
+
+- <div style="display: flex; align-items: center;">
+    <a href="https://www.tandfonline.com/doi/full/10.1080/08989621.2021.1960164" target="_blank">Why do master’s students of humanities and social sciences publish papers in Chinese-language predatory journals? A qualitative study based on Grounded Theory</a>
+    <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="110486589" style="margin-left: 10px;"></div>
+  </div>
+
+  **Gengyan Tang**, Jingwen, Jia 
+  *Accountability in Research*  
+  Aug, 2022
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>]
+
+- <div style="display: flex; align-items: center;">
+    <a href="https://doi.org/10.1007/s12109-020-09719-z" target="_blank">Analysis on the position of copyright trade in the Sino–US trade friction</a>
+    <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="80780825" style="margin-left: 10px;"></div>
+  </div>
+
+  **Gengyan Tang**
+  *Publishing Research Quarterly*  
+  Jun, 2021
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>]
 
 ### Letter & Correspondence
 
