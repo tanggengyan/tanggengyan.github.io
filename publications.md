@@ -12,6 +12,9 @@ title: Publications
 
 - [Using mixed methods research to study research integrity: Current status, issues, and guidelines](https://doi.org/10.1080/08989621.2024.2449041)<br>**Gengyan Tang**<br>*Accountability in Research*<br> Jan, 2025
 
+ <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+  <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="172701067"></div>
+
 - [The punishment intensity for research misconduct and its related factors: An exploratory study on hospitals in Mainland China](https://doi.org/10.1080/08989621.2024.2377723)<br>**Gengyan Tang**<br>*Accountability in Research*<br> Jul, 2024
   
 - [A rapid investigation of artificial intelligence generated content footprints in scholarly publications](https://doi.org/10.3138/jsp-2023-0079)<br>**Gengyan Tang**, Sarah Elaine Eaton<br>*Journal of Scholarly Publishing*<br> May, 2024
