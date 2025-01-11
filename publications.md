@@ -52,7 +52,7 @@ title: Publications
   *Accountability in Research*  
   Sep, 2023
 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>]
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
 - <div style="display: flex; align-items: center;">
     <a href="https://doi.org/10.1080/08989621.2022.2117621" target="_blank">Status bias in Chinese scholarly publishing: An exploratory study based on mixed methods</a>
@@ -63,7 +63,7 @@ title: Publications
   *Accountability in Research*  
   Sep, 2022
 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>]
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
 - <div style="display: flex; align-items: center;">
     <a href="https://doi.org/10.1080/08989621.2022.2117621" target="_blank">Characteristics of blacklisted journals: Evidence from Chinese-language academic journals</a>
@@ -74,7 +74,7 @@ title: Publications
   *Accountability in Research*  
   Aug, 2022
 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>]
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
 - <div style="display: flex; align-items: center;">
     <a href="https://www.tandfonline.com/doi/full/10.1080/08989621.2021.1960164" target="_blank">Why do master’s students of humanities and social sciences publish papers in Chinese-language predatory journals? A qualitative study based on Grounded Theory</a>
@@ -85,7 +85,7 @@ title: Publications
   *Accountability in Research*  
   Aug, 2022
 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>]
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
 - <div style="display: flex; align-items: center;">
     <a href="https://doi.org/10.1007/s12109-020-09719-z" target="_blank">Analysis on the position of copyright trade in the Sino–US trade friction</a>
@@ -96,7 +96,7 @@ title: Publications
   *Publishing Research Quarterly*  
   Jun, 2021
 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>]
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
 ### Letter & Correspondence
 
