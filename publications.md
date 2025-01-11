@@ -48,7 +48,7 @@ title: Publications
     <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="154607337" style="margin-left: 10px;"></div>
   </div>
 
-  **Gengyan Tang**, Jingyu Peng  
+  **Gengyan Tang**, Jingyu Peng
   *Accountability in Research*  
   Sep, 2023
 
@@ -59,8 +59,8 @@ title: Publications
     <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="134953689" style="margin-left: 10px;"></div>
   </div>
 
-  **Gengyan Tang**, Hao Cai & Jingwen, Jia 
-  *Accountability in Research*  
+  **Gengyan Tang**, Hao Cai & Jingwen, Jia<br> 
+  *Accountability in Research* <br> 
   Sep, 2022
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
@@ -70,8 +70,8 @@ title: Publications
     <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="134014063" style="margin-left: 10px;"></div>
   </div>
 
-  **Gengyan Tang**, Jingwen, Jia 
-  *Accountability in Research*  
+  **Gengyan Tang**, Jingwen, Jia <br>
+  *Accountability in Research*  <br>
   Aug, 2022
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
@@ -81,8 +81,8 @@ title: Publications
     <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="110486589" style="margin-left: 10px;"></div>
   </div>
 
-  **Gengyan Tang**, Jingwen, Jia 
-  *Accountability in Research*  
+  **Gengyan Tang**, Jingwen, Jia <br>
+  *Accountability in Research*  <br>
   Aug, 2022
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
@@ -92,8 +92,8 @@ title: Publications
     <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="80780825" style="margin-left: 10px;"></div>
   </div>
 
-  **Gengyan Tang**
-  *Publishing Research Quarterly*  
+  **Gengyan Tang**<br>
+  *Publishing Research Quarterly*  <br>
   Jun, 2021
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
