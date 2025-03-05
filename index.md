@@ -6,7 +6,7 @@ layout: page
 
 <img src="1664867172379.jpg" class="floatpic" width="480" height="480">
 
-> Update in 25th Nov 2024. Life and stories keep unfolding......
+> Update in 5th Mar 2025. Life and stories keep unfolding......
 
 ## Short Biographical Story
 
@@ -27,7 +27,8 @@ I’ve also become increasingly interested in the challenges emerging technologi
 On a more personal note, I’m a proud cat parent. My cat, Mimi, was a stray I found on a street corner in Chongqing shortly after my grandmother and great-grandmother passed away. I took him in and cared for him for three years before moving to Canada. Now, my mother looks after Mimi, who has grown from his original 3 kilograms to a healthy 5 kilograms. He is thriving.
 
 ## News and Updates
-- **Jan 2025:** My correspondence to *Nature* has been published: https://doi.org/10.1038/d41586-024-04230-3.
+- **Mar 2025:** I was interviewed by Nature to discuss recent research integrity policies in China: [https://doi.org/10.1038/d41586-024-04230-3](https://doi.org/10.1038/d41586-025-00612-3).
+- **Jan 2025:** My correspondence to *Nature* has been published: [https://doi.org/10.1038/d41586-024-04230-3](https://doi.org/10.1038/d41586-024-04230-3).
 - **Dec 2024:** My correspondence to *Nature* has been accepted and will be published early next year.
 - **Nov 2024:** I became an individual member of COPE (Committee on Publication Ethics).
 - **Aug 2024:** I moved to the University of Calgary to begin my PhD program.
