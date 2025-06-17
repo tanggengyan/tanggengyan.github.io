@@ -15,7 +15,7 @@ title: Publications
     <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="178037931" style="margin-left: 10px;"></div>
   </div>
   
-  **Gengyan Tang**  
+  **Gengyan Tang** , Hao Cai 
   *JAMA Network Open*  
   Jun, 2025
 
