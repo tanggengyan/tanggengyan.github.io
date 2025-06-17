@@ -2,7 +2,7 @@
 
 <img src="1664867172379.jpg" class="floatpic" width="480" height="480">
 
-> Update in 5th Mar 2025. Life and stories keep unfolding......
+> Update in 17th June 2025. Life and stories keep unfolding......
 
 ## Short Biographical Story
 
