@@ -11,6 +11,17 @@ title: Publications
 ### Article
 
 - <div style="display: flex; align-items: center;">
+    <a href="https://doi.org/10.1001/jamanetworkopen.2025.15160" target="_blank">Citation contamination by paper mill articles in systematic reviews of the life sciences</a>
+    <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="178037931" style="margin-left: 10px;"></div>
+  </div>
+  
+  **Gengyan Tang**, Hao Cai
+  *JAMA Network Open*  
+  Jun, 2025
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
+- <div style="display: flex; align-items: center;">
     <a href="https://doi.org/10.1080/08989621.2025.2470860" target="_blank">Mapping nine decades of research integrity studies (1935–2024): A scientometric analysis</a>
     <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="175183133" style="margin-left: 10px;"></div>
   </div>
