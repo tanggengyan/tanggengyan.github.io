@@ -7,10 +7,10 @@ title: Experience
 > Update in 17th June 2025
 
 # Awards & Honors
-
+- *Jul 2025:* **Werklund Doctoral Scholarship**, Werklund School of Education, University of Calgary (Selected as one of only two doctoral students to receive this competitive faculty-level scholarship)
 - *May 2025:* **Eyes High International Doctoral Scholarship**
 - *Apr 2025:* **Top 5% Highly Cited Scholars in CNKI, 2024**
-- *Apr 2024:* **International Graduate Tuition Award, University of Calgary** 
+- *Apr 2024:* **International Graduate Tuition Award** , University of Calgary
 - *Dec 2021:* **China National Scholarship (Top 1%)** 
 - *Dec 2020:* **China National Scholarship (Top 1%)** 
 - *Jun 2021:* Outstanding University Graduates in Sichuan Province(**Only Best Student** in my major, **1/45**)
