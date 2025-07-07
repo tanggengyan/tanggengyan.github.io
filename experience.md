@@ -4,7 +4,7 @@ permalink: /experience/index.html
 title: Experience
 ---
 
-> Update in 17th June 2025
+> Update in 7th July 2025
 
 # Awards & Honors
 - *Jul 2025:* **Werklund Doctoral Scholarship**, Werklund School of Education, University of Calgary (Selected as one of only two doctoral students to receive this competitive faculty-level scholarship)
