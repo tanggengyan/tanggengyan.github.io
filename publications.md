@@ -16,7 +16,6 @@ title: Publications
   </div>
   
   **Gengyan Tang** , Sarah Elaine Eaton, Wei Cai
-
   *British Educational Research Journal*  
   Feb, 2026
 
