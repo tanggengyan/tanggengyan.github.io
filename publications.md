@@ -10,6 +10,8 @@ title: Publications
 
 ### Journal Article
 
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
 - <div style="display: flex; align-items: center; gap:10px;">
     <a href="https://doi.org/10.1002/berj.70130">
       Academic misconduct appeal services in China: Platform logics, self-platformization and implications for integrity education
