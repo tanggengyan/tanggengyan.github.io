@@ -12,10 +12,11 @@ title: Publications
 
 - <div style="display: flex; align-items: center;">
     <a href="https://doi.org/10.1002/berj.70130" target="_blank">Academic misconduct appeal services in China: Platform logics, self-platformization and implications for integrity education</a>
-    <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="178037931" style="margin-left: 10px;"></div>
+    <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="190416250" style="margin-left: 10px;"></div>
   </div>
   
   **Gengyan Tang** , Sarah Elaine Eaton, Wei Cai
+
   *British Educational Research Journal*  
   Feb, 2026
 
@@ -23,7 +24,7 @@ title: Publications
 
 - <div style="display: flex; align-items: center;">
     <a href="https://doi.org/10.1001/jamanetworkopen.2025.15160" target="_blank">Citation contamination by paper mill articles in systematic reviews of the life sciences</a>
-    <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="190416250" style="margin-left: 10px;"></div>
+    <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="178037931" style="margin-left: 10px;"></div>
   </div>
   
   **Gengyan Tang** , Hao Cai                                                                                                                                                                 
