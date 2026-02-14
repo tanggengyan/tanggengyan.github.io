@@ -8,7 +8,7 @@ title: Experience
 
 ## Awards & Honors
 
-- **Calgary Images of Research Competition**, University of Calgary  
+- **UCalgary Images of Research Competition**, University of Calgary  
   *Feb 2026* — Ranked second
 - **Werklund Doctoral Scholarship**, University of Calgary  
   *Jul 2025* — Selected as one of only two doctoral students at the faculty level
