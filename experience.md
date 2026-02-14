@@ -14,7 +14,7 @@ title: Experience
   *Jul 2025* — Selected as one of only two doctoral students at the faculty level
 - **Eyes High International Doctoral Scholarship**, University of Calgary  
   *May 2025*
-  - **Top 5% Highly Cited Scholars in CNKI, 2025**  
+- **Top 5% Highly Cited Scholars in CNKI, 2025**  
   *Jan 2026*
 - **Top 5% Highly Cited Scholars in CNKI, 2024**  
   *Apr 2025*
