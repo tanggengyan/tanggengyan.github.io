@@ -10,11 +10,17 @@ title: Publications
 
 ### Article
 
--- [Academic misconduct appeal services in China: Platform logics, self-platformization and implications for integrity education](https://doi.org/10.1002/berj.70130)  
-  <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="190416250"></div>  
-  **Gengyan Tang**, Sarah Elaine Eaton, Wei Cai  
-  *British Educational Research Journal*  
+- <div style="display: flex; align-items: center; gap:10px;">
+    <a href="https://doi.org/10.1002/berj.70130"
+       style="text-decoration: underline; color: #0969da;">
+      Academic misconduct appeal services in China: Platform logics, self-platformization and implications for integrity education
+    </a>
+    <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="190416250"></div>
+  </div>
+  <strong>Gengyan Tang</strong>, Sarah Elaine Eaton, Wei Cai<br>
+  <em>British Educational Research Journal</em><br>
   Feb, 2026
+
 
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
