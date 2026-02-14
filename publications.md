@@ -15,8 +15,8 @@ title: Publications
     <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="190416250" style="margin-left: 10px;"></div>
   </div>
   
-  **Gengyan Tang** , Sarah Elaine Eaton, Wei Cai␠␠
-  *British Educational Research Journal* ␠␠ 
+  **Gengyan Tang** , Sarah Elaine Eaton, Wei Cai<br>
+  *British Educational Research Journal* <br>
   Feb, 2026
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
