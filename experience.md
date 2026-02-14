@@ -6,36 +6,57 @@ title: Experience
 
 > Update in 7th July 2025
 
-# Awards & Honors
-- *Jul 2025:* **Werklund Doctoral Scholarship**, Werklund School of Education, University of Calgary (Selected as one of only two doctoral students to receive this competitive faculty-level scholarship)
-- *May 2025:* **Eyes High International Doctoral Scholarship**
-- *Apr 2025:* **Top 5% Highly Cited Scholars in CNKI, 2024**
-- *Apr 2024:* **International Graduate Tuition Award** , University of Calgary
-- *Dec 2021:* **China National Scholarship (Top 1%)** 
-- *Dec 2020:* **China National Scholarship (Top 1%)** 
-- *Jun 2021:* Outstanding University Graduates in Sichuan Province(**Only Best Student** in my major, **1/45**)
-- *Jun 2021*: The 3rd Prize of the 19th Social Science Excellent Achievement Award(The People’s Government of Sichuan Province, China)
-- *Dec 2020:* The 1st Prize of Excellent Papers (Chinese Information Processing Society of Tianjin, China)
-- *Oct 2020:* The Excellent Paper Awards(Nanjing Normal University, China)  
-- *Oct 2020:* The 3rd Prize for Excellent Papers(Communication Society of Fujian, China)
-- *Dec 2021:* **The 1st Prize for Academic Scholarship** 
-- *May 2020:* **The 1st Prize for Academic Scholarship**
+## Awards & Honors
 
-# Memberships & Affiliations
-- Graduate Programs in Education Student Association, Werklund School of Education, University of Calgary
+- **Calgary Images of Research Competition**, University of Calgary  
+  *Feb 2026* — Ranked second
+  
+- **Werklund Doctoral Scholarship**, University of Calgary  
+  *Jul 2025* — Selected as one of only two doctoral students at the faculty level
+
+- **Eyes High International Doctoral Scholarship**, University of Calgary  
+  *May 2025*
+
+- **Top 5% Highly Cited Scholars in CNKI, 2024**  
+  *Apr 2025*
+
+- **China National Scholarship (Top 1%)**  
+  *Dec 2021*
+
+- **China National Scholarship (Top 1%)**  
+  *Dec 2020*
+
+### Other Academic Awards
+- International Graduate Tuition Award, University of Calgary — *Apr 2025*
+- International Graduate Tuition Award, University of Calgary — *Apr 2024*
+- Outstanding University Graduate in Sichuan Province (1/45) — *Jun 2021*
+- 3rd Prize, Social Science Excellent Achievement Award (Sichuan Provincial Government) — *Jun 2021*
+- 1st Prize, Academic Scholarship — *Dec 2021*
+- 1st Prize, Academic Scholarship — *May 2020*
+- 1st Prize, Excellent Paper (Chinese Information Processing Society) — *Dec 2020*
+- Excellent Paper Award, Nanjing Normal University — *Oct 2020*
+- 3rd Prize, Excellent Papers, Communication Society of Fujian — *Oct 2020*
+
+
+## Professional Memberships
+
 - Committee on Publication Ethics (COPE)
-- The Chinese Association of Science of Science and S&T Policy Research
+- Chinese Association of Science of Science and S&T Policy Research
+- Graduate Programs in Education Student Association, University of Calgary
 
-# Peer Reviewer
-I have served as a peer reviewer for the following academic journals：
-- Oct 2022 - Present: Peer Reviewer, *Accountability in Research: Ethics, Integrity and Policy*
-- Mar 2025 - Present: Peer Reviewer, *Journal of Academic Ethics*
-- Jan 2024 - Present: Peer Reviewer, *Journal of Librarianship and Scholarly Communication*
-- Mar 2024 - Present: Peer Reviewer, *Journal of Librarianship and Information Science*
-- Mar 2024 - Present: Peer Reviewer, *Journal of Scholarly Publishing*
-- Jun 2024 - Present: Peer Reviewer, *BMC Medical Research Methodology*
-- Jun 2024 - Present: Peer Reviewer, *BMC Medical Education*
-- Aug 2024 - Present: Peer Reviewer, *Frontiers in Education*
-- Sep 2024 - Present: Peer Reviewer, *Discover Education*
-- Oct 2024 - Present: Peer Reviewer, *Scientific Reports*
-- Nov 2024 - Present: Peer Reviewer, *International Journal for Educational Integrity*
+
+## Peer Review Service
+
+I serve as a peer reviewer for the following journals:
+
+- *Scientific Reports*
+- *BMC Medical Research Methodology*
+- *BMC Medical Education*
+- *Journal of Academic Ethics*
+- *Accountability in Research*
+- *Journal of Scholarly Publishing*
+- *Journal of Librarianship and Information Science*
+- *Journal of Librarianship and Scholarly Communication*
+- *International Journal for Educational Integrity*
+- *Frontiers in Education*
+- *Discover Education*
