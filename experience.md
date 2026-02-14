@@ -10,19 +10,14 @@ title: Experience
 
 - **Calgary Images of Research Competition**, University of Calgary  
   *Feb 2026* — Ranked second
-  
 - **Werklund Doctoral Scholarship**, University of Calgary  
   *Jul 2025* — Selected as one of only two doctoral students at the faculty level
-
 - **Eyes High International Doctoral Scholarship**, University of Calgary  
   *May 2025*
-
 - **Top 5% Highly Cited Scholars in CNKI, 2024**  
   *Apr 2025*
-
 - **China National Scholarship (Top 1%)**  
   *Dec 2021*
-
 - **China National Scholarship (Top 1%)**  
   *Dec 2020*
 
