@@ -6,6 +6,9 @@ title: Projects
 
 # Research Projects
 
+###  GUIDE (Generative Understanding, Inclusive Design, and Ethical Assessment) Project
+*Research Assistant*
+
 ### Research on International Perspectives and Models for Cultivating Global Talent in Journalism and Communication （2024- present）
 
 *Co-investigator*
