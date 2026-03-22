@@ -1,33 +1,26 @@
 # About Me
 
-<img src="1664867172379.jpg" class="floatpic" width="480" height="480">
-
-> Update in 17th June 2025. Life and stories keep unfolding......
+> Update in 17th March 2026. Life and stories keep unfolding......
 
 ## Short Biographical Story
 
-Hi 👋 My name is **Gengyan (Kyan) Tang [Chinese name:唐耕砚]**. I am a PhD student in the Werklund School of Education at the University of Calgary. Here is [my latest CV](CV-Gengyan.pdf).
+English-language Version
 
-I was born in a small city in southwestern China—Fushun, Zigong. I spent the first 18 years of my life there, receiving all my K-12 education in the same place. Growing up, my exposure to English was very basic, with virtually no training in speaking or listening. After high school, I moved to Chengdu, the capital of Sichuan Province, where I lived for eight years before relocating to Chongqing, a city 300 kilometers away, for another three years.
+Hi 👋 My name is **Gengyan Tang [Chinese name:唐耕砚]**. I am currently a PhD candidate at the Werklund School of Education at the University of Calgary. Here is [my latest CV](CV-Gengyan.pdf).
 
-Chongqing quickly became my favorite city. I was captivated by its stunning, dreamlike cityspace and, of course, its unbeatable hotpot cuisine.
+I was born in Fushun, Zigong, a small city in southwestern China. I spent the first eighteen years of my life there and completed all of my schooling, from kindergarten through high school, in that city. Growing up, my exposure to English was quite limited. The instruction I received focused mainly on basic reading and writing, with very little training in listening or speaking.
 
-During my undergraduate studies, I developed a strong passion for academic research. I joined a project under my undergraduate program supervisor and became interested in the media industry. After completing my undergraduate program, I decided to pursue further studies and took the Chinese National Postgraduate Entrance Examination. I didn’t pass on my first attempt, but I didn’t give up. On my second try, I was admitted to the Sichuan Academy of Social Sciences, where my advisor, provided me with a supportive and flexible environment. This allowed me to independently explore my research interests.
+After graduating from high school, I moved to Chengdu, the capital city of Sichuan Province, where I lived for eight years. Later, I relocated to Chongqing, about 300 kilometers away, and spent three years there before coming to Canada.
 
-It was during this time that I found my research calling: research and publication integrity. Having witnessed and experienced numerous cases of academic misconduct, I felt a strong urge to address the issue and contribute to improving the status quo in China’s academic community. For my master’s thesis, I used a mixed-methods approach, scientometrics, statistical analysis, semi-structured interviews, and grounded theory, to examine the characteristics of predatory journals in the Chinese context and the motivations behind authorship. The thesis stemmed from two papers I published in *Accountability in Research*.
+My current research focuses on the impact of digital platforms on academic integrity and research integrity. In particular, I am interested in how social media, platforms that students and researchers interact with in their daily lives, shape their perceptions and behaviors. I am also interested in how institutional logics, especially those grounded in Chinese theoretical frameworks, may create conditions that allow paper mills to thrive. Methodologically, my research combines both quantitative and qualitative approaches.
 
-After completing my master’s program, I applied for Ph.D. programs but faced rejections for two consecutive years. Despite these setbacks, I did not stop my research. During this time, I conducted fieldwork in a public hospital in Chongqing, focusing on internal research misconduct, such as gift authorship, ghostwriting, and data fabrication.
+Chinese-language Version
 
-I’ve also become increasingly interested in the challenges emerging technologies pose to research integrity, particularly the transformative impact of tools like ChatGPT and other AIGC innovations on academia. I believe technology can bring positive changes to the world, but only if we uphold core values like ethics, integrity, and transparency.
+Hi，我的名字是Gengyan Tang。我现在是卡尔加里大学Werklund School of Education的博士候选人。
 
-On a more personal note, I’m a proud cat parent. My cat, Mimi, was a stray I found on a street corner in Chongqing shortly after my grandmother and great-grandmother passed away. I took him in and cared for him for three years before moving to Canada. Now, my mother looks after Mimi, who has grown from his original 3 kilograms to a healthy 5 kilograms. He is thriving.
+我出生在中国西南部的一个小城市——自贡富顺。我在那里度过了人生的前18年，完成了从幼儿园到高中的全部教育。成长过程中，我接触的英语非常基础，几乎没有接受过任何听说方面的训练。高中毕业后，我搬到了四川省的省会成都，在那里生活了八年，之后又搬到了300公里外的重庆，在那里生活了三年。
 
-## News and Updates
-- **Jun 2025:** I was featured in *STAT News* for my article published in *JAMA Network Open*: [https://doi.org/10.1001/jamanetworkopen.2025.15160](https://doi.org/10.1001/jamanetworkopen.2025.15160).
-- **Jun 2025:** I was interviewed by *Nature* to discuss the driving forces behind paper mill activities in China: [https://doi.org/10.1038/d41586-025-01824-3](https://doi.org/10.1038/d41586-025-01824-3).
-- **Mar 2025:** I was interviewed by *Nature* to discuss recent research integrity policies in China: [https://doi.org/10.1038/d41586-024-04230-3](https://doi.org/10.1038/d41586-025-00612-3).
-- **Jan 2025:** My correspondence to *Nature* has been published: [https://doi.org/10.1038/d41586-024-04230-3](https://doi.org/10.1038/d41586-024-04230-3).
-- **Dec 2024:** My correspondence to *Nature* has been accepted and will be published early next year.
+我现在的研究关注数字平台对学术诚信和科研诚信的影响，尤其是那些学生和科研人员日常接触的社交媒体如何塑造他们的认知和行为。此外，我还对制度逻辑（尤其关注中国本土理论框架）如何为论文工厂提供生存沃土非常感兴趣。我的研究方式是定量和定性相结合的。
 
 ## Statement
 
