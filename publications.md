@@ -123,7 +123,17 @@ title: Publications
   Jun, 2021
 
 
-## Letter & Correspondence
+## Letter, Correspondence and Commentary
+
+- <div style="display: flex; align-items: center; gap:10px;">
+    <a href="https://doi.org/10.55016/ojs/cpai.v9i1/82885">
+      AI smart glasses and the future of academic integrity in a Postplagiarism era
+    </a>
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="https://doi.org/10.55016/ojs/cpai.v9i1/82885" data-hide-no-mentions="true" class="altmetric-embed"></div>
+  </div>
+  Sarah Elaine Eaton, Rahul Kumar, Bibek Dahal, <strong>Gengyan Tang</strong>, Fuat Ramazanov, Beatriz Antonieta Moya Figueroa<br>
+  <em>Canadian Perspective on Academic Integrity</em><br>
+  Mar, 2026
 
 - <div style="display: flex; align-items: center; gap:10px;">
     <a href="https://doi.org/10.1038/d41586-024-04230-3">
