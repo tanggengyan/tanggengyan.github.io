@@ -4,7 +4,7 @@
 
 ## Short Biographical Story
 
-English-language Version
+### English-language Version
 
 Hi 👋 My name is **Gengyan Tang [Chinese name:唐耕砚]**. I am currently a PhD candidate at the Werklund School of Education at the University of Calgary. Here is [my latest CV](CV-Gengyan.pdf).
 
@@ -14,7 +14,7 @@ After graduating from high school, I moved to Chengdu, the capital city of Sichu
 
 My current research focuses on the impact of digital platforms on academic integrity and research integrity. In particular, I am interested in how social media, platforms that students and researchers interact with in their daily lives, shape their perceptions and behaviors. I am also interested in how institutional logics, especially those grounded in Chinese theoretical frameworks, may create conditions that allow paper mills to thrive. Methodologically, my research combines both quantitative and qualitative approaches.
 
-Chinese-language Version
+### Chinese-language Version
 
 Hi，我的名字是Gengyan Tang。我现在是卡尔加里大学Werklund School of Education的博士候选人。
 
