@@ -20,7 +20,7 @@ My current research focuses on the impact of digital platforms on academic integ
 
 ### Chinese-language Version
 
-Hi，我的名字是Gengyan Tang。我现在是卡尔加里大学Werklund School of Education的博士候选人。
+Hi，我的名字是唐耕砚。我现在是卡尔加里大学Werklund School of Education的博士候选人。
 
 我出生在中国西南部的一个小城市——自贡富顺。我在那里度过了人生的前18年，完成了从幼儿园到高中的全部教育。成长过程中，我接触的英语非常基础，几乎没有接受过任何听说方面的训练。高中毕业后，我搬到了四川省的省会成都，在那里生活了八年，之后又搬到了300公里外的重庆，在那里生活了三年。
 
