@@ -6,7 +6,7 @@ title: Publications
 
 # Publications
 
-## English Publications
+## English-language Publications
 
 ### Journal Article
 
@@ -206,7 +206,7 @@ title: Publications
   Aug, 2023
 
 
-## Chinese Publications
+## Chinese-language Publications
 
 - <div style="display: flex; align-items: center; gap:10px;">
     <a href="https://d.wanfangdata.com.cn/periodical/cbfxyj202203011">
