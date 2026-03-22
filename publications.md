@@ -129,7 +129,7 @@ title: Publications
     <a href="https://doi.org/10.55016/ojs/cpai.v9i1/82885">
       AI smart glasses and the future of academic integrity in a Postplagiarism era
     </a>
-    <div data-badge-details="right" data-badge-type="medium-donut" data-doi="https://doi.org/10.55016/ojs/cpai.v9i1/82885" data-hide-no-mentions="true" class="altmetric-embed"></div>
+    <div data-badge-type="medium-donut" data-doi="https://doi.org/10.55016/ojs/cpai.v9i1/82885" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
   </div>
   Sarah Elaine Eaton, Rahul Kumar, Bibek Dahal, <strong>Gengyan Tang</strong>, Fuat Ramazanov, Beatriz Antonieta Moya Figueroa<br>
   <em>Canadian Perspective on Academic Integrity</em><br>
