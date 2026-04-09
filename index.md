@@ -11,8 +11,7 @@ layout: page
 
 ### English-language Version
 
-Hi 👋 My name is **Gengyan Tang [Chinese name:唐耕砚]**. I am currently a PhD candidate at the Werklund School of Education at the University of Calgary. Here is [my latest CV](CV-Gengyan.pdf).
-
+Hi 👋 My name is **Gengyan Tang [Chinese name:唐耕砚]**. 
 I was born in Fushun, Zigong, a small city in southwestern China. I spent the first eighteen years of my life there and completed all of my schooling, from kindergarten through high school, in that city. Growing up, my exposure to English was quite limited. The instruction I received focused mainly on basic reading and writing, with very little training in listening or speaking.
 
 After graduating from high school, I moved to Chengdu, the capital city of Sichuan Province, where I lived for eight years. Later, I relocated to Chongqing, about 300 kilometers away, and spent three years there before coming to Canada. I am also trying to write a Chinese-language novel titled *Last Summer*. The novel is currently being serialized on [Changpei Literature](https://www.gongzicp.com/novel-2172327.html), where I update it from time to time.
@@ -21,7 +20,7 @@ My current research focuses on the impact of digital platforms on academic integ
 
 ### Chinese-language Version
 
-Hi，我的名字是唐耕砚。我现在是卡尔加里大学Werklund School of Education的博士候选人。
+Hi，我的名字是唐耕砚。
 
 我出生在中国西南部的一个小城市——自贡富顺。我在那里度过了人生的前18年，完成了从幼儿园到高中的全部教育。成长过程中，我接触的英语非常基础，几乎没有接受过任何听说方面的训练。高中毕业后，我搬到了四川省的省会成都，在那里生活了八年，之后又搬到了300公里外的重庆，在那里生活了三年。我也尝试在写作一部中文小说，这部小说的名字叫做《去年夏天》，小说正在[长佩文学](https://www.gongzicp.com/novel-2172327.html) 上进行连载（我会不定时更新）。
 
