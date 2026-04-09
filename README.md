@@ -6,7 +6,7 @@
 
 ### English-language Version
 
-Hi 👋 My name is **Gengyan Tang [Chinese name:唐耕砚]**. I am currently a PhD candidate at the Werklund School of Education at the University of Calgary. Here is [my latest CV](CV-Gengyan.pdf).
+Hi 👋 My name is **Gengyan Tang [Chinese name:唐耕砚]**. 
 
 I was born in Fushun, Zigong, a small city in southwestern China. I spent the first eighteen years of my life there and completed all of my schooling, from kindergarten through high school, in that city. Growing up, my exposure to English was quite limited. The instruction I received focused mainly on basic reading and writing, with very little training in listening or speaking.
 
