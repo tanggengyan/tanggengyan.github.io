@@ -6,10 +6,6 @@ title: Projects
 
 # Research Projects
 
-### GUIDE (Generative Understanding, Inclusive Design, and Ethical Assessment) Project<br>
-Funded by a 2025 University of Calgary Teaching Grant<br>
-*Research Assistant*<br>
-
 ### Examining Equitable Formative and Summative Assessment Practices<br>
 *Research Assistant*<br>
 
